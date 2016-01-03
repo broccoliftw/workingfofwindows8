@@ -1,0 +1,45 @@
+# Lyrics script: White Zombie - Thunderkiss 65
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero I version
+22010	2360	text	Well, sweet little sista's high in hell
+24570	1750	text	Cheat'n on a halo
+26420	1700	text	Grind in a odyssey holocaust
+28220	2410	text	Heart kick on tomorrow
+30830	490	text	Breakdown
+31330	3030	text	Agony said "Ecstasy" in overdrive
+34760	1800	text	She come a riding on the world
+36660	4920	text	Thunder kiss'n 1965, yeah, wow!
+43370	3460	text	Five, yeah, wow!!
+47630	5800	text	Demon-warp is coming alive in 1965
+55030	1550	text	Five, five!
+56680	1200	text	Livin' fast and dying young
+57980	2040	text	Like an endless poetry
+60490	1550	text	My motor-psycho nightmare
+62140	2220	text	Freak out inside of me
+64650	3450	text	My soul salvation liberation on the drive
+68900	2800	text	The power of the blaster move me faster
+72480	4080	text	1965, yeah, wow!
+78050	2920	text	Five, yeah, wow!
+81650	5860	text	Demon-warp is coming alive in 1965
+89110	1700	text	Five, five!
+127910	5740	text	Gimme that, gimme that now, now, now, yeah!
+137050	2550	text	Roll'n like a supersonic
+139800	1950	text	Another fool that gets down on it
+141950	1770	text	Pig sweat a million miles
+143820	1880	text	I got a heart atomic style
+145800	3510	text	I make it look easy, that's what I said
+149710	5140	text	The blast of silence explodes in my head
+158130	4720	text	Yeah, yeah, yeah, gimme that, gimme that now
+164450	1350	text	Gimme that, gimme that, now
+166000	2050	text	Gimme that, gimme that, now
+168250	1450	text	Gimme that, gimme that
+169800	2260	text	Step to the moonshine frenzy hail
+172260	1550	text	The Resurrection
+173910	1590	text	What's new pussycat
+175910	1990	text	Can you dig the satisfaction
+178100	1750	text	Well, you can't take it with you
+179950	2040	text	But you can! In overdrive
+182190	3000	text	Yeah! Some like it hot and twist'n
+185590	4520	text	1965, yeah, wow!
+191390	3580	text	Five, yeah, wow!
+195400	5560	text	Demon-warp is coming alive in 1965
+202560	1640	text	Five, five!

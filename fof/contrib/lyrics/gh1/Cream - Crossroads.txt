@@ -1,0 +1,35 @@
+# [ar:Cream]
+# [ti:Crossroads]
+# [al:Wheels of Fire]
+# [by:LRC2FOF]
+# 
+25460	2490	text	I went down to the crossroads, 
+28150	3760	text	fell down on my knees
+32710	2360	text	Down to the crossroads, 
+35270	4330	text	fell down on my knees
+40400	2050	text	Asked the Lord above for mercy, 
+42650	4010	text	"Save me if you please"
+47460	2430	text	I went down to the crossroads, 
+50090	4320	text	tried to flag a ride
+55210	2110	text	Down to the crossroads, 
+57520	4080	text	tried to flag a ride
+62400	1920	text	Nobody seemed to know me, 
+64520	4390	text	everybody passed me by
+69710	2240	text	Well I'm going down to Rosedale, 
+72150	4010	text	take my rider by my side
+76960	1870	text	Going down to Rosedale, 
+79030	4200	text	take my rider by my side
+84030	2110	text	You can still barrelhouse, baby
+86340	5000	text	on the riverside
+134600	1740	text	Going down to Rosedale, 
+136440	4520	text	take my rider by my side
+141760	1920	text	Going down to Rosedale, 
+143880	4260	text	take my rider by my side
+148940	1930	text	You can still barrelhouse, baby
+151070	5000	text	on the riverside
+219040	2310	text	You can run, you can run, 
+221550	4130	text	tell my friend-boy, Willie Brown
+226480	1810	text	Run, you can run, 
+228490	4450	text	tell my friend-boy, Willie Brown
+233740	2360	text	And I'm staying at the crossroads, 
+236300	5790	text	believe I'm sinking down

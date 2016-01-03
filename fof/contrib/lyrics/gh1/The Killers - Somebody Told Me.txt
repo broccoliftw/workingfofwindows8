@@ -1,0 +1,55 @@
+# Lyrics script: The Killers - Somebody Told Me
+# Scripted by YMS using LRC2FOF to fit the version Fez used
+21240	3030	text	Breaking my back just to know your name
+24670	3760	text	Seventeen tracks and I've had it with this game
+31550	2850	text	I'm breaking my back just to know your name
+34800	3460	text	But heaven ain't close in a place like this
+38660	4980	text	Anything goes, but don't blink, you might miss
+45620	2460	text	Cause heaven ain't close in a place like this
+48280	3490	text	I said heaven ain't close in a place like this
+52980	3530	text	Bring it back down, bring it back down tonight
+59440	4350	text	Never thought I'd let a rumor ruin my moonlight 
+65350	1800	text	Well, somebody told me
+67250	1600	text	You had a boyfriend
+68950	1400	text	Who looked like a girlfriend
+70450	3220	text	That I had in february of last year
+74070	1510	text	It's not confidential
+75680	1590	text	I've got potential 
+80380	2960	text	Ready, let's roll onto something new
+83740	4010	text	Taking its toll and I'm leaving without you
+90400	2760	text	Cause heaven ain't close in a place like this
+93560	3280	text	I said heaven ain't close in a place like this
+98120	4250	text	Bring it back down, bring it back down tonight
+104670	4810	text	Never thought I'd let a rumor ruin my moonlight 
+110730	1650	text	Well, somebody told me
+112480	1460	text	You had a boyfriend
+114040	1450	text	Who looked like a girlfriend
+115590	3100	text	That I had in february of last year
+119090	1710	text	It's not confidential
+120900	1710	text	I've got potential
+122710	2040	text	A rushin', a rushin' around 
+125610	4500	text	Pace yourself from me
+131710	4710	text	I said maybe, baby, please
+138020	5120	text	But I just don't know now 
+146180	2710	text	When all I wanna do is try
+150440	1800	text	Somebody told me
+152440	1550	text	You had a boyfriend
+154090	1500	text	Who looked like a girlfriend
+155690	3160	text	That I had in february of last year
+159250	1650	text	It's not confidential
+161000	1650	text	I've got potential
+162750	2010	text	A rushin', a rushin' around
+164960	1600	text	Somebody told me
+166660	1250	text	You had a boyfriend
+168010	1600	text	Who looked like a girlfriend
+169710	3060	text	That I had in february of last year
+173170	1500	text	It's not confidential
+174770	1570	text	I've got potential
+176440	2000	text	A rushin', a rushin' around
+178640	1600	text	Somebody told me
+180340	1560	text	You had a boyfriend
+182000	1390	text	Who looked like a girlfriend
+183490	3110	text	That I had in february of last year
+187000	1650	text	It's not confidential
+188750	1510	text	I've got potential
+190360	3100	text	A rushin', a rushin' around

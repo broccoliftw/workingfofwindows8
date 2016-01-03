@@ -1,0 +1,43 @@
+# Lyrics script: Iron Maiden - The Number Of The Beast
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero III version
+4350	4300	text	I left alone, my mind was blank
+10520	2200	text	I needed time to think
+12720	2300	text	To get the memories from my mind
+16730	4400	text	What did I see, can I believe
+22700	2000	text	That what I saw that night
+24700	2300	text	Was real and not just fantasy
+28860	4000	text	Just what I saw, in my old dreams
+34430	4000	text	Were they reflections of my warped mind
+38430	1100	text	Staring back at me
+41100	4100	text	'Cause in my dreams, it's always there
+46800	3100	text	The evil face that twists my mind
+49900	1400	text	And brings me to despair
+67250	1790	text	The night was black
+69040	1990	text	Was no use holding back
+71430	2000	text	'Cause I just had to see
+73430	2500	text	Was someone watching me
+77020	1510	text	In the mist
+78530	2010	text	Dark figures move and twist
+80840	2000	text	Was all this for real
+82840	2500	text	Or just some kind of hell
+86490	4450	text	666, the number of the beast
+91340	4100	text	Hell and fire was spawned to be released
+97380	3940	text	Torches blazed and sacred chants were praised
+101520	4500	text	As they start to cry, hands held to the sky
+107210	3500	text	In the night the fires are burning bright
+111010	4300	text	The ritual has begun, Satan's work is done
+116340	4450	text	666, the number of the beast
+121090	4000	text	Sacrifice is going on tonight
+199200	4430	text	This can't go on, I must inform the lord
+203730	4620	text	Can this still be real or just some crazy dream
+208650	4440	text	But I feel drawn towards the chanting hordes
+213190	2200	text	Seem to mesmerize
+215390	2100	text	Can't avoid their eyes
+218430	4270	text	666, the number of the beast
+223000	4000	text	666, the one for you and me
+229430	4400	text	I'm coming back, I will return
+235390	2300	text	And I'll possess your body
+237690	2100	text	And I'll make you burn
+241490	4300	text	I'll have the fire, I'll have the force
+247110	1500	text	I'll have the power
+248610	2800	text	To make my evil take its course

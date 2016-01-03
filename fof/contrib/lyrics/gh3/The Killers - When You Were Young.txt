@@ -1,0 +1,41 @@
+# Lyrics script: The Killers - When You Were Young
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero III version
+22410	3200	text	You sit there in your heartache 
+26010	3190	text	Waiting on some beautiful boy to 
+29600	3220	text	To save you from your old ways 
+33220	1200	text	You play forgiveness 
+34520	1860	text	Watch it now, here he comes
+36580	3150	text	He doesn't look a thing like Jesus 
+40130	2250	text	But he talks like a gentleman 
+42580	4660	text	Like you imagined when you were young 
+51650	1600	text	Can we climb this mountain 
+53350	1800	text	I don't know 
+55250	3060	text	Higher now than ever before 
+58710	3410	text	I know we can make it if we take it slow 
+62520	1600	text	Let's take it easy 
+64220	1500	text	Easy now, watch it go 
+66120	3050	text	We're burning down the highway skyline 
+69570	3310	text	On the back of a hurricane that started turning 
+73680	4200	text	When you were young 
+80140	4950	text	When you were young 
+87800	2800	text	And sometimes you close your eyes 
+91000	3170	text	And see the place where you used to live
+95400	3060	text	When you were young 
+119390	3410	text	They say the devil's water, it ain't so sweet 
+123600	3370	text	You don't have to drink right now
+128150	3300	text	But you can dip your feet 
+131850	4610	text	Every once in a little while 
+158240	3400	text	You sit there in your heartache 
+162040	3060	text	Waiting on some beautiful boy to 
+165500	3210	text	To save you from your old ways 
+169110	1590	text	You play forgiveness 
+170800	1660	text	Watch it now, here he comes 
+172560	3300	text	He doesn't look a thing like Jesus 
+176260	1860	text	But he talks like a gentleman 
+178220	4480	text	Like you imagined when you were young 
+183500	1930	text	He talks like a gentlemen
+185630	1600	text	Like you imagined when
+187330	4760	text	When you were young 
+194040	3800	text	I said he doesn't look a thing like Jesus 
+202040	3560	text	He doesn't look a thing like Jesus 
+208150	2910	text	But more than you'll ever know

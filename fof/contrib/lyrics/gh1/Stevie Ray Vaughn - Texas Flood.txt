@@ -1,0 +1,20 @@
+# Lyrics script: Stevie Ray Vaughn - Texas Flood
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero I version
+66250	4810	text	Well, there's floodin' down in Texas
+73170	3250	text	All of the telephone lines are down
+82770	4610	text	Well, there's floodin' down in Texas
+89390	3590	text	All of the telephone lines are down
+99000	4550	text	And I've been tryin' to call my baby
+105250	4150	text	Lord, and I can't get a single sound
+115620	3550	text	Well, dark clouds are rollin' in
+121820	4200	text	Man, I'm standin' out in the rain
+132490	3250	text	Well, dark clouds are rollin' in
+138760	3440	text	Man, I'm standin' out in the rain
+148820	4890	text	Yeah, flood water keep a rollin'
+155930	3660	text	Man, it's about to drive poor me insane
+265160	3610	text	Well, I'm leavin' you, baby
+271370	4560	text	Lord, and I'm goin' back home to stay
+282130	3320	text	Well, I'm leavin' you, baby
+288840	3770	text	Lord, and I'm goin' back home to stay
+299720	4450	text	Well, back home are no floods or tornados
+305080	5500	text	Baby, and the sun shines every day

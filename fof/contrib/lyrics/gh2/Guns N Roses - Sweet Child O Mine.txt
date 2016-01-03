@@ -1,0 +1,45 @@
+# Lyrics script: Guns 'n Roses - Sweet Child O' Mine
+# Scripted by YMS to fit the Guitar Hero II version
+48900	3100	text	She's got a smile that it seems to me
+52200	3600	text	Reminds me of childhood memories
+56000	1600	text	Where everything
+57600	4300	text	Was as fresh as the bright blue sky
+63900	3100	text	Now and then when I see her face
+67200	3500	text	She takes me away to that special place
+70700	2200	text	And if I stared too long
+73100	4400	text	I'd probably break down and cry
+78900	5500	text	Uoh sweet child o' mine
+86400	7000	text	Uoh sweet love of mine
+109900	3300	text	She's got eyes of the bluest skies
+113400	3600	text	As if they thought of rain
+117400	3600	text	I hate to look into those eyes
+121000	3700	text	And see an ounce of pain
+125000	1700	text	Her hair reminds me
+126700	1900	text	Of a warm safe place
+128700	3700	text	Where as a child I'd hide
+132700	2200	text	And pray for the thunder
+135100	1100	text	And the rain
+136200	4300	text	To quietly pass me by
+140300	5800	text	Uoh sweet child o' mine
+146900	7000	text	Uoh sweet love of mine
+184000	8700	text	Uoh yeah uoh sweet child o' mine
+193500	7700	text	Uoh sweet love of mine
+202300	5500	text	Oh oh oh oh Sweet child o' mine
+208100	2100	text	Oh oh ye ah
+210300	7000	text	Oh oh sweet love of mine
+287200	1700	text	Ah ah
+288900	2300	text	Where do we go
+291700	3600	text	Oh where do we go now
+296200	2100	text	Where do we go
+298600	4900	text	Oh where do we go now
+303800	5300	text	Ah where do we go now
+309200	1900	text	Ah ah ah ah
+311300	2100	text	Where do we go
+313600	3800	text	Oh oh where do we go now
+318800	3600	text	Where do we go oh
+322500	3100	text	where do we go now
+326300	3600	text	Where do we go oh
+330000	1700	text	Where do we go now
+331900	2800	text	Ah ah ah ah ah ah ah
+335000	1700	text	Sweet child
+336800	6000	text	Sweet child o' mine

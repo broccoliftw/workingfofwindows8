@@ -1,0 +1,31 @@
+# Lyrics script: Lynyrd Skynyrd - Free Bird
+# Scripted by YMS to fit the Guitar Hero II version
+72000	6000	text	If I leave here tomorrow
+80000	5000	text	Would you still remember me? 
+88000	6000	text	For I must be travelling on now
+96000	6000	text	Cause there's too many places I've got to see
+105000	5500	text	But if I stayed here with you, girl
+114000	4000	text	Things just couldn't be the same
+121000	6000	text	Cause I'm as free as a bird now
+130000	5000	text	And this bird you can not change
+135000	3000	text	Oh-oh-oh-oh
+138000	5000	text	And this bird you can not change
+146000	6000	text	And this bird you can not change
+153000	6000	text	Lord knows I can't change
+193000	5500	text	Bye, bye, babe, it's been sweet love
+198500	1500	text	Yeah, yeah
+200500	5500	text	Though this feeling I can't change
+209000	6000	text	But please don't take it so badly
+217000	5000	text	Cause lord knows I'm to blame
+225000	6000	text	But if I stayed here with you, girl
+233000	5000	text	Things just couldn't be the same
+241000	6000	text	Cause I'm as free as a bird now
+250000	5000	text	And this bird you can not change
+255000	3000	text	Oh-oh-oh-oh
+258000	5000	text	And this bird you can not change
+265000	6000	text	And this bird you can not change
+272000	6000	text	Lord knows, I can't change
+280000	6000	text	Lord, help me, I can't change
+288000	3000	text	Lord, I can't change
+292500	7000	text	Won't you fly high, free bird, yeah
+400000	10000	text	(Guitar solo ;))

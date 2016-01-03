@@ -1,0 +1,39 @@
+# Lyrics script: Iron Maiden - Wrathchild
+# Scripted by V4Vendetta for Rock the 80s Encore
+9100   500 text yeah
+18200  1350 text born into a scene 
+19500  1000 text angriness and greed
+20600  2000 text dominance and persecution
+22900  1200 text My mother was a queen
+24000  1200 text my dad I've never seen
+25300  2000 text I was never meant to be
+28000  4200 text now I spend my time looking all around
+32600  3200 text For a man that's nowhere to be found
+37000  1400 text Until I find him 
+38800  1800 text I'm never gonna stop searching
+41200  1800 text I'm goin to find my man
+43400  8400 text gonna travel 'round
+52200  2400 text 'Cause I'm a wrathchild
+54600  2000 text Yeah I'm a wrathchild
+56900  2000 text I'm a...wrathchild
+60500  1800 text I'm coming to get you
+63000  2000 text oooh yeah
+121600 1200 text Say it doesn't matter 
+122700 1000 text ain't nothin' gonna 
+123900 1600 text the course of my destination
+126000 1000 text know I've got to find 
+127200 1000 text some serious piece of mind
+128800 2000 text I know I'll just go crazy
+131200 4200 text Now I spend my time looking all around
+136000 3200 text For a man thats nowhere to be found
+139750  400 text Yeah
+140800 1200 text Until I find him 
+142000 1800 text I'm never gonna stop searching
+145250 1500 text gonna find my man
+146750 9300 text gonna travel 'round
+156400 2200 text 'Cause I'm a wrathchild
+158700 1800 text Well I'm a wrathchild
+160600 2000 text Yeah I'm a wrathchild
+164200 1900 text I'm coming to get you
+166800 2000 text oooh ye-yeah
+174500 1500 text YEAH!!

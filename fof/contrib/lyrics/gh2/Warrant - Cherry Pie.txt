@@ -1,0 +1,90 @@
+# [artist:Warrant]
+# [title:Cherry Pie]
+# [album:The Best of Warrant]
+# 
+13145	2462	text	She's my cherry pie
+15907	850	text	Cool drink of water
+16777	1451	text	Such a sweet surprise
+18528	796	text	Tastes so good
+19624	1237	text	Make a grown man cry
+21161	4396	text	Sweet cherry pie oh yea
+34827	1011	text	Swingin' on the front porch
+36138	1065	text	Swingin' on the lawn
+37503	969	text	Swingin' where we want
+38492	1440	text	'Cause there ain't nobody home
+40232	796	text	Swingin' to the left
+41328	1010	text	And swingin' to the right
+42638	1344	text	If I think about baseball
+44282	2332	text	I'll swing all night yea
+51073	1000	text	Swingin' in the living room
+52373	1130	text	Swingin' in the kitchen
+53803	957	text	Most folks don't 'cause
+54780	1451	text	They're too busy bitchin'
+56531	969	text	Swingin' in there 'cause
+57520	1011	text	She wanted me to feed her
+58831	1129	text	So I mixed up the batter
+60260	1257	text	And she licked the beater
+61817	1011	text	I scream you scream
+63128	1118	text	We all scream for her
+64546	1021	text	Don't even try 'cause
+65867	1011	text	You can't ignore her
+67178	2548	text	She's my cherry pie
+70026	957	text	Cool drink of water
+71003	1452	text	Such a sweet surprise
+72755	861	text	Tastes so good
+73636	1440	text	Make a grown man cry
+75376	2450	text	Sweet cherry pie oh yea
+78126	2213	text	She's my cherry pie
+80639	1237	text	Put a smile on your face
+82176	1011	text	Ten miles wide
+83487	796	text	Looks so good
+84583	1345	text	Bring a tear to your eye
+86228	2417	text	Sweet cherry pie
+88945	1237	text	Swingin' to the drums
+90482	913	text	Swingin' to guitar
+91695	958	text	Swingin' to the bass
+92673	1580	text	In the back of my car
+94553	861	text	Ain't got money
+95434	1000	text	Ain't got no gas
+96734	796	text	But we'll get where
+97830	420	text	We're goin' if we
+98270	1118	text	Swing real fast
+99688	1011	text	I scream you scream
+100999	1344	text	We all scream for her
+102643	795	text	Don't even try 'cause
+103738	1218	text	You can't ignore her
+105256	2440	text	She's my cherry pie
+107996	850	text	Cool drink of water
+108866	1452	text	Such a sweet surprise
+110618	969	text	Tastes so good
+111607	1451	text	Make a grown man cry
+113358	2428	text	Sweet cherry pie oh yea
+116086	2117	text	She's my cherry pie
+118503	1226	text	Put a smile on your face
+120029	1129	text	Ten miles wide
+121458	958	text	Looks so good
+122436	1494	text	Bring a tear to your eye
+124230	4000	text	Sweet cherry pie
+133030	4000	text	Swing it! All night long,
+138391	3779	text	Swing it!
+152690	904	text	Swing in the bathroom
+153894	1119	text	Swingin' on the floor
+155313	1021	text	Swingin' so hard
+156634	1011	text	We forgot to lock the door
+157945	785	text	In walks her daddy
+159030	1021	text	Standin' six foot four
+160351	1010	text	He said you ain't gonna swing
+161661	1442	text	With my daughter no more
+163403	2439	text	She's my cherry pie
+166142	862	text	Cool drink of water
+167024	1440	text	Such a sweet surprise
+168764	979	text	Tastes so good
+169763	1333	text	Make a grown man cry
+171396	2546	text	Sweet cherry pie oh yea
+174242	2109	text	She's my cherry pie
+176651	1332	text	Put a smile on your face
+178283	1140	text	Ten miles wide
+179723	795	text	Looks so good
+180818	1237	text	Bring a tear to your eye
+182355	2428	text	Sweet cherry pie
+185083	4000	text	Sweet cherry pie

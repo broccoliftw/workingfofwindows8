@@ -1,0 +1,55 @@
+# Lyrics script: .38 Special - Hold on Loosely
+# scripted by V4Vendetta for Rock the 80s encore
+20000  2000 text You see it all around you 
+23500  2000 text Good lovin' gone bad 
+27000  3500 text And usually it's too late when you
+31100  2000 text realize what you had 
+34500  3800 text And my mind goes back to a girl I left 
+38600  3200 text some years ago, Who told me 
+42200  2500 text Just Hold On Loosely
+46425  2500 text but don't let go 
+49800  3000 text If you cling to tightly, 
+53400  2000 text you're gonna lose control 
+57450  3470 text Your baby needs someone to believe in 
+61400  2500 text And a whole lot of space to breathe in
+65200  2500 text It's so damn easy
+68600  2000 text when your feelings are such 
+72400  2000 text To overprotect her
+76100  2000 text to love her too much 
+79400  3800 text And my mind goes back to a girl I left 
+83800  3200 text some years ago, Who told me 
+87200  2500 text Just Hold On Loosely
+90900  2700 text but don't let go 
+94800  3000 text If you cling too tightly, 
+98400  2000 text you're gonna lose control 
+102450 3600 text Your baby needs someone to believe in 
+106400 3000 text And a whole lot of space to breathe in 
+112700 2500 text Don't let her slip away 
+116800 2000 text Sentimental fool 
+119800 3100 text Don't let your heart get in her way 
+123700 2500 text yeah, yeah, yeah
+126700 2000 text You see it all around you 
+130000 2000 text Good lovin' gone bad 
+133400 3500 text And usually it's too late when you
+137700 2000 text realize what you had 
+141000 2900 text So Hold on Loosely 
+145300 2600 text but don't let go 
+148700 2500 text if you cling to tightly
+151950 2800 text you're gonna lose control
+155900 3400 text Your baby needs someone to believe in 
+160000 2800 text And a whole lot of space to breathe in 
+164200 2100 text So Hold On Loosely
+167800 2350 text but don't let go 
+170800 2700 text If you cling too tightly 
+174125 2000 text you're gonna lose it 
+176200 2800 text You're gonna lose control 
+184600 2000 text yeah, yeah, yeah
+193000 2000 text So hold On loosely
+197350 2000 text but don't let go
+201620 2500 text If you cling too tightly 
+205000 2500 text you're gonna lose control
+208400 3100 text Hold on Loosely
+212800 2800 text but don't let go 
+216300 3000 text If you cling too tightly to her 
+219650 2225 text you're gonna lose control 
+221950 2500 text yeah, yeah, yeah

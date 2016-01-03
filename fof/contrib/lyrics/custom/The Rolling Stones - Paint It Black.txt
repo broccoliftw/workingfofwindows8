@@ -1,0 +1,69 @@
+# Lyrics script: Rolling Stones - Paint It Black
+# Scripted by YMS to fit to the version GDuBB used
+14400	2500	text	I see a red door and
+17100	2400	text	I want it painted black
+20400	2400	text	No colours anymore
+23000	2500	text	I want them to turn black
+26400	2300	text	I see the girls walk by
+28800	2600	text	Dressed in their summer clothes
+32600	2000	text	I have to turn my head
+34700	2900	text	Until my darkness goes
+38700	2500	text	I see a line of cars and
+41300	2400	text	They're all painted black
+44700	2000	text	With flowers and my love
+46800	2900	text	Both never to come back
+50700	2400	text	I see people turn their heads
+53300	2200	text	And quickly look away
+56700	2100	text	Like a new born baby
+58900	2600	text	It just happens every day
+62700	2500	text	I look inside myself and
+65400	2400	text	See my heart is black
+68800	2500	text	I see my red door, I must
+71400	2500	text	Have it painted black
+74800	2200	text	Maybe then I'll fade away
+77100	2600	text	And not have to face the facts
+80700	2700	text	It's not easy facing up when
+83500	2200	text	Your whole world is black
+87000	2400	text	No more will my green sea go
+89700	2500	text	Turn a deeper blue
+93300	2500	text	I could not foresee this thing
+96000	2500	text	Happening to you
+99600	1900	text	If I look hard enough
+101600	2700	text	Into the setting sun
+105500	2000	text	My love will laugh with me
+107700	2700	text	Before the morning comes
+111600	2400	text	I see a red door and
+114200	2500	text	I want it painted black
+117600	2400	text	No colours anymore
+120200	2500	text	I want them to turn black
+123600	2300	text	I see the girls walk by
+126000	2600	text	Dressed in their summer clothes
+129700	2000	text	I have to turn my head
+131800	2800	text	Until my darkness goes
+135800	2500	text	Hmm hmm hmm hmm hmm hmm hmm
+138400	2700	text	Hmm hmm hmm hmm hmm
+141700	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+144400	2600	text	Hmm hmm hmm hmm hmm
+147700	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+150400	2600	text	Hmm hmm hmm hmm hmm
+153800	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+156400	1900	text	Hmm hmm hmm hmm hmm
+158400	1800	text	I wanna see you painted
+160800	1100	text	Painted black
+162400	2500	text	Black as night, black as coal
+165200	1600	text	I wanna see the sun
+168000	1800	text	Blotted out from the sky
+170500	2300	text	I wanna see it painted, painted
+173000	3600	text	Painted, painted black, yeah
+177900	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+180600	2600	text	Hmm hmm hmm hmm hmm
+183900	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+186600	2600	text	Hmm hmm hmm hmm hmm
+189900	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+192600	2600	text	Hmm hmm hmm hmm hmm
+196000	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+198700	2600	text	Hmm hmm hmm hmm hmm
+202000	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+204700	2600	text	Hmm hmm hmm hmm hmm
+208100	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+210800	2100	text	Hmm hmm hmm hmm hmm

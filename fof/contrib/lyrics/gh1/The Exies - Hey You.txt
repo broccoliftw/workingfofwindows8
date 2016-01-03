@@ -1,0 +1,64 @@
+# Lyrics script: The Exies - Hey You
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero I version
+23650	2160	text	Your life
+26010	2000	text	Mislaid
+28210	2060	text	Spoon-fed
+30470	2440	text	Well-raised
+33350	1960	text	Hey you, you're nodding out
+35510	2390	text	What's this all about?
+38100	2250	text	Hey you, you're nodding out
+40550	1970	text	What's this all about?
+42720	2090	text	Hey you!
+45110	2110	text	Hey you!
+47520	2050	text	Hey you!
+49870	1460	text	Hey you!
+51430	2630	text	What's this now? 
+54260	4700	text	Going down, going down 
+59760	3500	text	Are you sorry now? 
+63660	1770	text	Going down 
+65530	1880	text	Why you want to die? 
+76180	1850	text	Black tar 
+78130	2450	text	In your veins 
+80780	2100	text	Once new 
+83080	2410	text	Now stained, stained, stained 
+85690	2060	text	Hey you, you're nodding out 
+87950	2140	text	What's this all about?
+90290	2300	text	Hey you, you're nodding out
+92790	2210	text	What's this all about?
+95200	2250	text	Hey you!
+97750	1910	text	Hey you!
+99960	2150	text	Hey you!
+102410	1150	text	Hey you!
+103660	2750	text	What's this now? 
+106610	4520	text	Going down, going down 
+111930	3590	text	Are you sorry now? 
+115920	4620	text	Going down, going down 
+121340	3350	text	What's your story now? 
+125490	1660	text	Going down 
+127250	2160	text	Why you want to die? 
+130800	3000	text	Die, why do you want to die? 
+134200	2710	text	Why you want to die? 
+166420	2060	text	Your life 
+168680	2000	text	Mislaid 
+170880	2500	text	Spoon-fed 
+173580	1860	text	Well-raised 
+176090	980	text	Hey you!
+178280	1410	text	Hey you!
+180490	1410	text	Hey you!
+183000	1550	text	Hey you!
+185800	1710	text	Hey you!
+188100	1750	text	Hey you!
+190400	1760	text	Hey you!
+192610	1100	text	Hey you!
+194210	2640	text	What's this now? 
+197250	4350	text	Going down, going down 
+202400	3300	text	Are you sorry now? 
+206500	4290	text	Going down, going down
+211590	4500	text	What's your story now? 
+217690	3040	text	Why you want to die? 
+221130	3410	text	Die, why do you want to die? 
+224940	1810	text	Why you want to die?
+227550	1410	text	Why you want to die?
+229560	1610	text	Why you want to die?
+231660	2000	text	Why you want to die?
+234110	2760	text	Why you want to die?

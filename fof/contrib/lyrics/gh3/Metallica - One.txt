@@ -1,0 +1,40 @@
+# Lyrics script: Metallica - One
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+107846	3094	text	I can't remember anything
+111240	3283	text	Can't tell if this is true or dream
+114823	3094	text	Deep down inside I feel to scream
+118217	2685	text	This terrible silence stops me
+121202	3284	text	Now that the war is through with me
+124786	3294	text	I'm waking up, I cannot see
+128380	3283	text	That there is not much left of me
+131963	2096	text	Nothing is real but pain now
+134359	4582	text	Hold my breath as I wish for death
+139241	4000	text	Oh please, God, wake me
+155312	3892	text	Back in the womb it's much too real
+159504	3394	text	In pumps life that I must feel
+163198	3084	text	But can't look forward to reveal
+166582	2794	text	Look to the time when I'll live
+169676	3184	text	Fed through the tube that sticks in me
+173160	3284	text	Just like a wartime novelty
+176744	3494	text	Tied to machines that make me be
+180538	2086	text	Cut this life off from me
+182924	4492	text	Hold my breath as I wish for death
+187716	4000	text	Oh please, God, wake me
+217847	4482	text	Now the world is gone, I'm just one
+222629	1696	text	Oh God, help me
+224625	4482	text	Hold my breath as I wish for death
+229407	4000	text	Oh please, God, help me
+296160	1896	text	Darkness imprisoning me
+298356	788	text	All that I see
+299444	798	text	Absolute horror
+300542	799	text	I cannot live
+301641	978	text	I cannot die
+302639	798	text	Trapped in myself
+303737	3500	text	Body my holding cell
+313401	1886	text	Landmine has taken my sight
+315587	709	text	Taken my speech
+316596	799	text	Taken my hearing
+317695	788	text	Taken my arms
+318783	789	text	Taken my legs
+319872	978	text	Taken my soul
+320870	4000	text	Left me with life in hell

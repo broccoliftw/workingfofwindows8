@@ -1,0 +1,20 @@
+# Lyrics script: ZZ Top - Sharp Dressed Man
+# Converted by YMS using LRC2FOF to fit the Guitar Hero I version
+27090	3670	text	Clean shirt, new shoes
+31060	2720	text	And I don't know where I am goin' to
+34860	3860	text	Silk suit, black tie
+39020	2770	text	I don't need a reason why
+42090	3240	text	They come runnin' just as fast as they can
+45630	4200	text	Coz every girl crazy 'bout a sharp dressed man
+58050	3660	text	Gold watch, diamond ring
+62010	2770	text	I ain't missin' not a single thing
+65400	3370	text	And cufflinks, stick pin
+69070	3690	text	When I step out I'm gonna do you in
+73060	2730	text	They come runnin' just as fast as they can
+76090	4560	text	Coz every girl crazy 'bout a sharp dressed man
+150070	3630	text	Top coat, top hat
+154000	2980	text	And I don't worry coz my wallet's fat
+157780	2990	text	Black shades, white gloves
+161070	3670	text	Lookin' sharp, lookin' for love
+165040	3130	text	They come runnin' just as fast as they can
+168470	4120	text	Coz every girl crazy 'bout a sharp dressed man

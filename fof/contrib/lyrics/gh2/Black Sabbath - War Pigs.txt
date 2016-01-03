@@ -1,0 +1,30 @@
+# Lyrics script: Black Sabbath - War Pigs
+# Scripted by YMS to fit the Guitar Hero II version
+50000	5000	text	Generals gathered in their masses
+55000	5000	text	Just like witches at black masses
+61000	5000	text	Evil minds that plot destruction
+67000	5000	text	Sorcerers of death's construction
+73000	4000	text	In the fields the bodies burning
+77000	6000	text	As the war machine keeps turning
+84000	5000	text	Death and hatred to mankind
+89000	3000	text	Poisoning their brainwashed minds
+92000	2000	text	Oh Lord, yeah
+125000	4000	text	Politicians hide themselves away
+130000	3000	text	They only started the war
+135000	5000	text	Why should they go out to fight
+140000	4000	text	They leave that role to the poor
+145000	1000	text	Yeah
+156000	4000	text	Time will tell on their power minds
+161000	4000	text	Making war just for fun
+166000	5000	text	Treating people just like pawns in chess
+172000	3000	text	Wait till their judgement day comes
+176000	1000	text	Yeah
+262000	6000	text	Now in darkness world stops turning
+268000	5000	text	Ashes where the bodies burning
+273000	5000	text	No more war pigs of the power
+279000	4000	text	Hand of God has struck the hour
+284000	6000	text	Day of judgement, God is calling
+290000	5000	text	On their knees the war pigs crawling
+295000	5000	text	Begging mercies for their sins
+300000	4000	text	Satan, laughing, spreads his wings
+304000	2000	text	Oh Lord, yeah

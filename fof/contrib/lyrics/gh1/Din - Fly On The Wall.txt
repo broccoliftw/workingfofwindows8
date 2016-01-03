@@ -1,0 +1,32 @@
+# [ar:Din]
+# [ti:Fly On The Wall]
+# [by:LRC2FOF]
+# 
+22440	4140	text	Yeah, I'm living in a fantasy
+27380	2660	text	Tied to a mystery
+30440	3540	text	No hope for reality
+34780	2300	text	Yeah (you two)
+37280	970	text	Fly on the wall, 
+38350	1660	text	what do you mean (we three)
+40110	1570	text	Why is it I can't just see
+41780	1670	text	 (you four)
+43550	3580	text	Myla majority
+47930	2970	text	Take that
+51300	2790	text	Thank you
+54490	4730	text	Move on, oh yeah
+60820	4200	text	You, deep in your normalcy,
+65820	2840	text	Wait four steps down the hall
+69060	3520	text	Got you to me
+73380	2040	text	Yeah (you two)
+75620	910	text	Fly on the wall, 
+76540	1550	text	you tell me (we three)
+78190	2110	text	Change is on now cant you see 
+80500	860	text	(you four)
+81370	4450	text	I'm filling up on my own debris
+86620	3580	text	Take that (I wanna fly with you)
+91000	2600	text	Thank you (I wanna fly with you)
+94000	3200	text	Move on, oh yeah (ahh)
+98000	2380	text	(Ah-ah)
+100580	2740	text	Take that (I wanna fly with you)
+103520	2780	text	Thank you (I wanna fly with you)
+106700	4000	text	Move on, oh yeah (ahh)

@@ -1,0 +1,46 @@
+# [ar:Anarchy Club]
+# [ti:Behind the Mask]
+# [by:LRC2FOF v0.8]
+# 
+25210	4580	text	I am darkness 
+30590	4750	text	I am night 
+36140	4040	text	I am vengeance 
+40980	3220	text	I bring light 
+45000	3480	text	I'm a winter breeze in summertime 
+48880	2230	text	The world is broken, I'm just fine 
+51310	2820	text	Looking day and living night 
+54530	2430	text	I'm alright 
+57160	1390	text	I'm a winter breeze in summertime 
+58650	2970	text	The world is broken, I'm just fine 
+62020	2370	text	Looking day and living night 
+64590	3610	text	I'm alright 
+69000	2330	text	Cloak and dagger 
+71530	4360	text	cape and mask 
+76690	4190	text	smoke and mirrors 
+81680	4180	text	guilty past 
+86660	2410	text	I'm a winter breeze in summertime 
+89270	2640	text	The world is broken, I'm just fine 
+92310	2580	text	Looking day and living night 
+95090	1890	text	I'm alright 
+97080	2060	text	I'm a winter breeze in summertime 
+99340	2710	text	The world is broken, I'm just fine 
+102250	2230	text	Looking day and living night 
+104680	8820	text	I'm alright 
+118500	4200	text	(I am the man behind the mask) 
+123500	3700	text	(I am the man behind the mask) 
+128000	2270	text	I'm a winter breeze in summertime 
+130470	2190	text	The world is broken, I'm just fine 
+132860	2310	text	Looking day and living night 
+135370	2700	text	I'm alright 
+138270	2100	text	I'm a winter breeze in summertime 
+140570	2680	text	The world is broken, I'm just fine 
+143650	2210	text	Looking day and living night 
+146060	2010	text	I'm alright 
+148270	2210	text	I'm a winter breeze in summertime 
+150680	2630	text	The world is broken, I'm just fine 
+153510	2090	text	Looking day and living night 
+155800	2030	text	I'm alright 
+158030	2670	text	I'm a winter breeze in summertime 
+161100	2470	text	The world is broken, I'm just fine 
+163770	2150	text	Looking day and living night 
+166120	4000	text	I'm alright 

@@ -1,0 +1,87 @@
+# Lyrics script: Red Hot Chili Peppers - By The Way
+# Scripted by YMS to fit to the version h3r1n6 used
+8800	1200	text	Standing in line
+10200	1800	text	To see the show tonight
+12100	2300	text	And there's a light on
+15100	1600	text	Heavy glow
+17200	1300	text	By the way
+18500	3400	text	I tried to say I'd be there
+23300	1600	text	Waiting for
+25300	1200	text	Dani the girl
+26600	2000	text	Is singing songs to me
+28700	2100	text	Beneath the marquee
+31500	1800	text	Overload
+41100	500	text	Steak knife
+43000	500	text	Card shark
+44800	500	text	Con job
+46800	500	text	Boot cut
+48900	500	text	Skin that flick
+49400	1100	text	She's such a little DJ
+50500	700	text	Get there quick
+51300	1100	text	By street but not the freeway
+52500	700	text	Turn that trick
+53300	1100	text	To make a little leeway
+54400	600	text	Beat that nic
+55200	1000	text	But not the way that we play
+56200	500	text	Dog town
+58200	500	text	Blood bath
+60000	500	text	Rib cage
+61900	500	text	Soft tail
+64000	1200	text	Standing in line
+65300	1600	text	To see the show tonight
+67100	2300	text	And there's a light on
+69800	1600	text	Heavy glow
+71800	1400	text	By the way
+73200	3100	text	I tried to say I'd be there
+77600	1500	text	Waiting for
+87000	500	text	Black jack
+88900	500	text	Dope dick
+90800	500	text	Pawn shop
+92700	500	text	Quick pick
+94600	700	text	Kiss that dyke
+95400	1100	text	I know you want to hold one
+96600	700	text	Not on strike
+97300	1000	text	But I'm about to bowl one
+98400	700	text	Bite that mic
+99200	1100	text	I know you never stole one
+100300	1100	text	Girls that like a story
+101500	700	text	So I told one
+102300	500	text	Song bird
+104100	500	text	Main line
+106000	700	text	Cash back
+108000	500	text	Hard top
+109900	1200	text	Standing in line
+111200	1900	text	To see the show tonight
+113300	2300	text	And there's a light on
+116100	1800	text	Heavy glow
+118200	700	text	By the way
+119500	3300	text	I tried to say I'd be there
+124000	1600	text	Waiting for
+126400	700	text	Dani the girl
+127200	1900	text	Is singing songs to me
+129300	2000	text	Beneath the marquee
+132100	1500	text	Oversold
+133900	1200	text	By the way
+135500	3400	text	I tried to say I'd be there
+140200	1200	text	Waiting for
+165000	1200	text	Standing in line
+166300	1900	text	To see the show tonight
+168200	2500	text	And there's a light on
+170800	1800	text	Heavy glow
+172700	1200	text	By the way
+174000	3400	text	I tried to say I'd be there
+178600	1500	text	Waiting for
+180500	1100	text	Dani the girl
+181700	1800	text	Is singing songs to me
+183600	2100	text	Beneath the marquee
+186200	1800	text	Oversold
+188100	1200	text	By the way
+189500	2900	text	I tried to say I know you
+193900	1500	text	From before
+195800	1200	text	Standing in line
+197000	1800	text	To see the show tonight
+199000	2100	text	And there's a light on
+202200	1000	text	Heavy glow
+203300	1200	text	By the way
+204500	3300	text	I tried to say I'd be there
+209200	2000	text	Waiting for...

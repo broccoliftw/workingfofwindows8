@@ -1,0 +1,48 @@
+# [ar:Count Zero]
+# [ti:Sail Your Ship By]
+# [by:LRC2FOF]
+13280	5080	text	When I met you, you were off course. 
+19160	4320	text	Fate's winds blew you to my sand. 
+24280	4520	text	You said, "My! What beauty lies here!" 
+29600	6940	text	but you just needed some dry land. 
+39540	2970	text	you hired hands to recruit me. 
+42910	1990	text	but them uniforms don't suit me. 
+45100	2670	text	Well, if Dumbshit You don't care 
+47970	3390	text	to give something new a try, 
+51760	4510	text	just sail your ship by
+57070	3640	text	just sail your ship by
+61510	4080	text	just sail your ship by
+66390	6270	text	just sail your ship by mine
+74260	2600	text	Found you storm-tossed, 
+77260	2180	text	off the whale's roads, 
+79640	4610	text	seaweed-necklaced, all soiled and green. 
+85050	4260	text	Led you uphill. I fed you plenty. 
+90110	4270	text	Your mates drank with my best fifteen. 
+95180	2730	text	But once you saw you wouldn't rule me 
+98110	2430	text	you pulled out all the stops to fool me, 
+100740	2300	text	with flattery only to confound me. 
+103240	2670	text	Then deflowered all the bounty! 
+106110	2110	text	Look, if you're too scared to bear 
+108420	3230	text	to open one spare blue eye, 
+112050	4570	text	just sail your ship by
+117420	3950	text	just sail your ship by
+122170	5080	text	just sail your ship by
+128050	4230	text	just sail your ship by mine
+133080	1710	text	Oh, look at you! Look at you! 
+134890	2620	text	You dress like a pirate! a devil! 
+137710	2170	text	Well, I work another level 
+140080	1400	text	some might call higher. 
+141580	1340	text	But I ain't talking height. 
+143020	2300	text	I've just found fire's better used for light. 
+145520	2200	text	Heads up, all you bankrolled babes, 
+147920	2360	text	here's a beam to blast your astrolabes! 
+150480	2740	text	And if you dare not even spare 
+153420	2790	text	One minute bare spot in your mind... 
+156610	10000	text	Sail your ship
+178770	4620	text	Sail your ship by...
+184990	4320	text	Sail your ship by...
+190110	4640	text	Sail your ship by...
+195550	5560	text	Sail your ship by...
+206110	4350	text	Sail your ship by...
+211260	4640	text	Sail your ship by...
+216700	4000	text	Sail your ship by...

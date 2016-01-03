@@ -1,0 +1,48 @@
+# [artist:Audioslave]
+# [title:Cochise]
+# [album:Audioslave]
+# [by:LRC2FOF]
+#
+28750	2630	text	 Well I've been watchin'
+31580	3150	text	 while you've been coughin
+35130	2330	text	 I've been drinking life
+37660	2850	text	 while you been nauseous
+40910	2720	text	 and so I drink to health
+44030	2580	text	 while you kill yourself
+46810	2500	text	 and I got just one thing
+49510	2720	text	 that I can offer
+52430	2730	text	 go on and save yourself
+55560	2480	text	 take it out on me
+58240	2790	text	 go on and save yourself
+61430	3260	text	 take it out on me yea
+76650	2410	text	 I'm not a martyr
+79260	3020	text	 I'm not a prophet
+82680	2780	text	 and I won't preach to you but
+85860	2740	text	 here's a caution
+89000	2430	text	 you better understand
+91630	2930	text	 that I won't hold your hand
+94960	2140	text	 but if it helps you mend
+97300	2600	text	 then I won't stop it
+100100	2820	text	 go on and save yourself
+103320	2550	text	 take it out on me
+106070	2770	text	 go on and save yourself
+109240	2580	text	 take it out on me
+112020	2680	text	 go on and save yourself
+115100	2570	text	 take it out on me
+117870	2810	text	 go on and save yourself
+121080	3210	text	 take it out on me yea
+125090	1920	text	 drown
+127210	2730	text	 if you want
+130140	5110	text	 and I'll see you in the bottom
+136050	2720	text	 where you crawl
+139170	2700	text	 on my skin
+142070	3380	text	 and put the blame on me so
+146250	8780	text	 you don't feel a thing
+161230	2850	text	 go on and save yourself
+164480	2660	text	 take it out on me
+167340	2660	text	 go on and save yourself
+170400	2610	text	 take it out on me
+173210	2670	text	 go on and save yourself
+176280	2680	text	 take it out on me
+179160	2730	text	 go on and save yourself
+182290	3290	text	 take it out on me yea

@@ -1,0 +1,153 @@
+TODO Items/Bugs
+---------------
+
+fix score going backwards when doing 2 note chord
+
+fix funny hopo in pride and joy (expert)
+
+make a second background to load if playing 2 player split screen
+
+Allow 2nd neck.svg/png for player 2
+
+Somehow disable windows screensaver when game is running (needs ctypes)
+
+Add a 'uploadas' option in song.ini (can be abused)
+
+less distracting multiplier toggle
+
+maybe need a HOPO restart fudge? (in progress)
+
+can i separate same song detection and muting background track?
+
+add flash or some indication on 2 player where i know which side messed up
+
+keys to switch HS scroll
+
+HOPO tolerance config
+
+*.sng importer
+
+*.sng style HOPOs
+
+add rating, genre tags
+
+post process midi to strip out stuff we don't need (better performance?)
+
+remove extraneous song.getPostion()s
+
+Only change volumes when state changes
+
+cache difficulties and parts in .ini to speed things up
+
+Find more efficient way to do running %age (in progress but not accurate)
+
+Configurable *Margin (may alter gameplay and scores)
+
+Simplified songlist (text) with toggle
+
+Smaller cassette scaling and include song title next to all of them with toggle
+
+Random song select option
+
+Delay tuning/synching in editor with audible 'tink' sound when a note should have been pressed
+
+Folder support for a 'career' mode
+
+make built in network play work
+
+linux version
+
+update editor to be able to edit different parts
+
+before preview is fully loaded, if you select memory isnt freed
+
+Unknown if I can do them
+------------------------
+Investigate more detailed summary screen
+Add a 'record a performance' option with playback
+Add 'virtual' folder support so you can have 1 copy of the song, and have it in multiple places (by genre, difficulty, alphabetically, artist, etc)
+
+
+
+Ongoing efforts
+---------------
+Optimize performance of the mod
+Optimize some of the note loops to make them more efficient (dont traverse entire loop)
+More general optimizations (lag bad!)
+work on garbage collection for whatever is hogging up memory
+
+
+Completed efforts
+-----------------
+
+add counter to ini for number of times played (DONE)
+HOPO toggles (DONE)
+make hopo note color configurable (DONE)
+finalize hopo note color (DONE)
+hopo logic to turn off hopo sections if followed by a certain amount of time without notes (DONE)
+hopo logic for calculating hopo (greater than 0, less than 1/4 or 1/8 note) (DONE)
+hopo logic for next hopo, can't be after chord, can't be same note (DONE)
+add setting for miss volume (DONE)
+support for lead/coop player 2 in GH2 (DONE)
+penalize for 2 note down convert, but only if they USE it (DONE)
+scrolling highscores with all difficulties and tracks (DONE)
+fix highlighting of score only for the correct highscore list (DONE)
+start with scores on screen (DONE)
+pause for a few seconds before scrolling (DONE)
+do not display empty score tables (DONE)
+add cli flag for starting song directly (DONE)
+change disable NoteSFX to disable FretSFX (DONE)
+add new disable NoteSFX to disable note effect rendering to improve performance (DONE)
+processor affinity selection (DONE)
+is checking or marking played for chords slowing things down?  No what we do with played chords is slowing it down (flatting?) rendering the SFX for displayed note does! (DONE)
+preload the n+1 cassette/folder label so you can see it next (DONE)
+separate bass screwup sounds (DONE)
+pausing sometimes makes you lose multiplier when unpausing (LIES)
+maybe make the non played part (lead/rhythm) not as loud (DONE)
+fix muting of correct tracks when using lead coop (DONE)
+if no song.ogg just reduce volume (DONE)
+dont scroll empty high score lists (DONE)
+Fix splitscreen high score highlighting (DONE)
+fix hopo for notes preceeding a chord (DONE) 
+fix hopo for notes after a chord (DONE)
+disable hopo if any notes are missed (DONE)
+sync song timer and party timer (DONE)
+make player2 frets move up and down when strummed (DONE)
+party mode where you switch off every X seconds between primary and alternate controller (DONE)
+display played counter on song selection (DONE)
+detect if song.guitar/guitar.ogg are the same and do not load one of them (DONE)
+change fret coloring numbering to start with 0 to match FOF (DONE)
+lessen penalty for 2 note down convert (DONE)
+stop using =FOLDER= (DONE)
+Relocatable song directory (DONE)
+fix base_library missing bug (DONE)
+fix string index out of range if there are missing items in an existing song.ini (DONE)
+3 note held down HO not working (DONE)
+fix VBPM hopo (DONE)
+fix restart HOPO in middle (DONE)
+fix lag from Puddings changes (DONE)
+make previews detect duplicate song.ogg (DONE)
+Fix 2 note HOPO with long note following (DONE)
+redo player config items (DONE)
+get rid of extra co op tags (DONE)
+fix accuracy bug (DONE)
+fix player2 HOPO (DONE)
+fix misses in HOPO so they count (DONE)
+check freebird for other off HOPOs (DONE)
+add part to results screen (DONE)
+fix hopo detection when previous notes are chords/same (DONE)
+Make left hand, and 2note chord options for each player (DONE)
+toggle for spinny background (DONE)
+config items for tutorial and other hard coded values (DONE)
+Add Volume configuration for the main/background tracks (DONE)
+dissapearing notes (DONE)
+Multiple (ini file) ending lines other than 'Chilling' (DONE)
+Multiple (ini file) starting lines other than 'tuning guitar' (DONE)
+Configurable (ini file) difficulty names (DONE)
+As made famous by using cover tag (DONE)
+Make a flameX_YX_color variable setting for 'off' instead of the toggle (DONE)
+fix 2nd player stettings saving (DONE)
+High score entry with guitar keys (DONE)
+flag to read different file than fretsonfire.ini (DONE)
+flag to read NO fretsonfire.ini (DONE)
+debug flag to dump a file with file sizes and settings and such (DONE)

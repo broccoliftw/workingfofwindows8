@@ -1,0 +1,55 @@
+# Lyrics script: Aerosmith - Same Old Song And Dance
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+18190	1750	text	 Get yourself cooler
+20240	1270	text	 Lay yourself low
+21810	1510	text	 Coincidental murder
+23620	1050	text	 With nothing to show
+24970	1880	text	 With the judge's constipation
+27150	1090	text	 Will go to his head
+28540	1920	text	 And his wife's aggravation
+30760	1080	text	 You'll soon end up dead
+32140	1930	text	 It's the same old story
+34370	3030	text	 Same old song and dance,
+37700	1290	text	 My friend
+39290	1860	text	 It's the same old story
+41450	3000	text	 Same old song and dance,
+44750	1980	text	 My friend
+47030	1370	text	 Shady lookin' loser,
+48700	1380	text	 You played with my gun
+50380	1680	text	 No smooth face laywer
+52360	1220	text	 Could get ya undone
+53880	1640	text	 Say love ain't the same
+55820	1290	text	 On the south side of town
+57410	830	text	 You could look
+58540	2270	text	 But you ain't gonna find it around
+61110	1870	text	 It's the same old story
+63280	3010	text	 Same old song and dance,
+66590	1360	text	 My friend
+68250	1890	text	 It's the same old story
+70440	1680	text	 Same old story
+72420	4000	text	 Same old song and dance
+92270	1440	text	 Fate comes a-knockin'
+94010	1330	text	 Doors start lockin'
+95640	1880	text	 Your old time connection
+97820	1250	text	 Change your direction
+99370	1840	text	 You ain't gonna change it
+101510	1630	text	 Can't rearrange it
+103440	900	text	 Can't stand the pain
+104640	920	text	 When it's all
+105860	840	text	 The same
+106720	1390	text	 To you,
+108410	2460	text	 My friend
+131780	1920	text	 When you're low down and dirty
+134000	1110	text	 From walkin' the street
+135410	2120	text	 With your old hurdy gurdy
+137830	850	text	 No one to meet
+138980	1750	text	 Said love ain't the same
+141030	1330	text	 On the south side of town
+142660	810	text	 You could look
+143770	2100	text	 But you ain't gonna find it around
+146170	1990	text	 It's the same old story
+148460	2980	text	 Same old song and dance,
+151740	1220	text	 My friend
+153260	1950	text	 It's the same old story
+155510	1520	text	 Same old story
+157330	4000	text	 Same old song and dance

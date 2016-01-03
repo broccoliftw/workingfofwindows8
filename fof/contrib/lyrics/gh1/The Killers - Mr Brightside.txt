@@ -1,0 +1,58 @@
+# Lyrics script: The Killers - Mr. Brightside
+# Scripted by YMS using LRC2FOF to fit the version Fez used
+6780	1400	text	I'm coming out of my cage
+8280	1810	text	And I've been doing just fine
+10190	1400	text	Gotta, gotta, gotta be down
+11690	1510	text	Because I want it all
+13300	1340	text	It started out with a kiss
+14740	1800	text	How did it end up like this
+16740	2660	text	It was only a kiss, it was only a kiss
+19800	1450	text	Now I'm falling asleep
+21350	1650	text	And she's calling a cab
+23100	1510	text	While he's having a smoke
+24710	1600	text	And she's taking a drag
+26410	1350	text	Now they're going to bed
+27860	1650	text	And my stomach is sick
+29610	1600	text	And it's all in my head
+31310	1980	text	But she's touching his chest
+33490	2700	text	Now, he takes off her dress
+36590	3730	text	Now, let me go
+45940	3700	text	I just can't look, it's killing me
+51640	3250	text	And taking control
+58290	4110	text	Jealousy, turning saints into the sea
+63200	2760	text	Swimming through sick lullabies
+66360	2800	text	Choking on your alibis
+69560	2860	text	But it's just the price I pay
+72820	2850	text	Destiny is calling me
+76070	4360	text	Open up my eager eyes
+81230	3100	text	'Cause I'm Mr Brightside
+97740	1250	text	I'm coming out of my cage
+99090	1750	text	And I've been doing just fine
+100940	1400	text	Gotta, gotta, gotta be down
+102440	1400	text	Because I want it all
+103940	1550	text	It started out with a kiss
+105590	1710	text	How did it end up like this
+107400	2900	text	It was only a kiss, it was only a kiss
+110700	1610	text	Now I'm falling asleep
+112410	1340	text	And she's calling a cab
+113850	1700	text	While he's having a smoke
+115650	1660	text	And she's taking a drag
+117410	1350	text	Now they're going to bed
+118860	1600	text	And my stomach is sick
+120560	1110	text	And it's all in my head
+121770	2150	text	But she's touching his chest
+124120	2700	text	Now, he takes off her dress
+127220	4510	text	Now, let me go
+136730	4400	text	I just can't look, it's killing me
+142480	3050	text	And taking control
+149110	4030	text	Jealousy, turning saints into the sea
+153940	2860	text	Swimming through sick lullabies
+157200	2850	text	Choking on your alibi
+160450	2910	text	But it's just the price I pay
+163760	2760	text	Destiny is calling me
+166920	4550	text	Open up my eager eyes
+172270	2650	text	'Cause I'm Mr Brightside
+187990	3850	text	I never...
+194450	3310	text	I never...
+200660	4560	text	I never...
+207460	4540	text	I never...

@@ -1,0 +1,45 @@
+# [ar:David Bowie]
+# [ti:Ziggy Stardust]
+# [al:The Best of DB 1969-1974]
+# [by:LRC2FOF]
+# 
+19000	5000	text	Oh Yeah 
+31020	2600	text	Ziggy played guitar, 
+34020	3250	text	jamming good with Wierd and Gilly,
+38070	2400	text	The Spiders from Mars.
+40670	2880	text	He played it left hand, 
+43950	3220	text	but made it too far,
+47570	2730	text	Became the special man, 
+50700	3300	text	then we were Ziggy's Band.
+54800	3450	text	Ziggy really sang, screwed up eyes 
+59050	2570	text	and screwed down hairdo
+61820	2430	text	Like some cat from Japan, 
+64450	2910	text	he could lick 'em by smiling
+67760	3270	text	He could leave 'me to hang
+71830	1990	text	Came on so loaded man,
+74020	4600	text	well hung and snow white tan.
+79420	3950	text	So where were the spiders 
+84170	4950	text	while the fly tried to break our balls
+89920	4190	text	Just the beer light to guide us,
+94910	2480	text	So we bitched about his fans 
+97590	8340	text	and should we crush his sweet hands?
+113930	2730	text	Ziggy played for time, 
+116860	3330	text	jiving us that we were Voodoo
+120990	2240	text	The kids was just crass, 
+123430	3160	text	he was the naz
+126990	3350	text	With God given ass
+130740	2100	text	He took it all too far 
+133040	4460	text	but boy could he play guitar.
+138300	4690	text	Making love with his ego 
+143790	5030	text	Ziggy sucked up into his mind
+149620	3570	text	Like a leper messiah
+153990	2670	text	When the kids had killed the man
+156860	10000	text	I had to break up the band
+184540	4890	text	So where were the spiders 
+190230	4510	text	while the fly tried to break our balls
+195540	4830	text	Just the beer light to guide us,
+201170	2410	text	So we bitched about his fans 
+203780	7010	text	and should we crush his sweet hands?
+218790	5180	text	Oh Yeah
+224770	4940	text	Uh Uhu
+230510	9430	text	Ziggy played guitar

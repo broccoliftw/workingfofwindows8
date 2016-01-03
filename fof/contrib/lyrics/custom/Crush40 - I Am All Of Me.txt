@@ -1,0 +1,73 @@
+# Lyrics script: I am(all of me) - Crush 40
+# Lyrics from metrolyrics.com
+# Scripted by Davie
+14180   2510 text I see no, hear no evil, 
+16690   2435 text black writing on the wall,  
+19125   2475 text unleash one million faces,   
+21600   2525 text when one by one they fall! 
+24125   2665 text Black hearted evil, 
+26790   2510 text brave hearted hero, 
+29300   4700 text I am all, I am all I am 
+34700   2000 text I, I, I 
+37150   2450 text I am!  
+39375   1875 text Here we go buddy, here we go buddy,  
+41250   1560 text Here we go, here we go buddy,  
+42810   1315 text Here we go!
+44390   2530 text Go ahead and try to see through me, 
+46920   2080 text do it if you dare, 
+49550    825 text one step forward,  
+50375   1000 text two steps back,
+51375   1625 text I'm gonna step forward, 
+53000   1125 text Two steps back
+54125   2875 text You can do it, do it, do it, do it! 
+57000   2150 text Can you see all of me? 
+59150   2475 text Walk into my mysteries? 
+61625   3875 text Step inside and hold on for delight, 
+65950   2000 text Do you remember me? 
+67950   2550 text Capture you or set you free? 
+70500   4500 text I am all, and I am all of me!
+75000   7250 text I am all, I am all of me!
+82250   2200 text Here we go
+84450   2600 text I see and feel the evil, 
+87250   2370 text my hands will crush them all, 
+89620   2890 text you think you have the answer, 
+92510   2320 text while I laugh and watch you fall! 
+94830   2670 text Black hearted evil,
+97500   2500 text brave hearted hero, 
+100000  4900 text I am all, I am all I am 
+105450  2345 text I, I, I
+107795  2205 text I am! 
+110000  2000 text Here we go buddy, here we go buddy, 
+112000  1530 text here we go, here we go buddy,
+113530   970 text here we go! 
+115100  2590 text Go ahead and try to see through me, 
+117690  2310 text do it if you dare, 
+120000  1160 text one step forward,
+121160   930 text two steps back,
+122090  1525 text I'm gonna step forward,
+123615  1285 text Two steps back
+124900  2850 text You can do it, do it, do it, do it!
+127750  2050 text Can you see all of me?
+129800  2575 text Walk into my mysteries?
+132375  3925 text Step inside and hold on for delight,
+136620  2130 text Do you remember me?
+138750  2500 text Capture you or set you free?
+141250  3000 text I am all, and I am all of me!
+144250  8930 text I am all, I am all of me!
+153180  1820 text Here we go
+155620  2150 text I am, I am everyone, everywhere,
+157770  2690 text anyhow, anyway, anywhere, any day!
+160460  2440 text I am, I am everyone, everywhere,
+162900  2790 text anyhow, anyway, anywhere, any day!
+165690  2810 text I am, I am, I am!
+170710  2790 text I am, I am, I am!
+174720   780 text I am!
+175500  2750 text You can do it, do it, do it, do it!
+178250  2200 text Can you see all of me?
+180450  2480 text Walk into my mysteries?
+182930  3970 text Step inside and hold on for delight,
+187250  1930 text Do you remember me?
+189180  2620 text Capture you or set you free?
+191800  3000 text I am all, and I am all of me!
+194800  8800 text I am all, I am all of me!
+204000  3050 text I am, I am all of me...

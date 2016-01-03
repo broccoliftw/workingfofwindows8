@@ -1,0 +1,58 @@
+# Lyrics script: Nirvana - Heart-Shaped Box
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero II version
+15500	7000	text	She eyes me like a pisces when I am weak
+24500	5500	text	I've been locked inside your heart-shaped box
+30000	2500	text	For weeks
+34500	7000	text	I've been drawn into your magnet tar pit trap
+43500	8000	text	I wish I could eat your cancer when you turn black
+53500	980	text	Hey
+54500	980	text	Wait
+55500	2700	text	I've got a new complaint
+58500	4700	text	Forever in debt to your priceless advice
+63500	700	text	Hey
+64500	980	text	Wait
+65500	1700	text	I've got a new complaint
+67500	5000	text	Forever in debt to your priceless advice
+73000	750	text	Hey
+73750	750	text	Wait
+74500	2700	text	I've got a new complaint
+77500	7000	text	Forever in debt to your priceless advice
+86500	4000	text	Your advice
+92500	7000	text	Meat-eating orchids forgive no one just yet
+101500	8000	text	Cut myself on angel's hair and baby's breath
+111500	7000	text	Broken hymen of your highness I'm left black
+120500	5000	text	Throw down your umbilical noose so I can
+125500	3000	text	Climb right back
+131000	980	text	Hey
+132000	980	text	Wait
+133000	2700	text	I've got a new complaint
+136000	4700	text	Forever in debt to your priceless advice
+141000	700	text	Hey
+142000	980	text	Wait
+143000	1700	text	I've got a new complaint
+145000	5000	text	Forever in debt to your priceless advice
+150500	750	text	Hey
+151250	750	text	Wait
+152000	2700	text	I've got a new complaint
+155000	7000	text	Forever in debt to your priceless advice
+163000	4000	text	Your advice
+206800	7000	text	She eyes me like a pisces when I am weak
+215800	5500	text	I've been locked inside your heart-shaped box
+221300	2500	text	For weeks
+225800	7000	text	I've been drawn into your magnet tar pit trap
+234800	9000	text	I wish I could eat your cancer when you turn black
+245000	980	text	Hey
+246000	980	text	Wait
+247000	2700	text	I've got a new complaint
+250000	4700	text	Forever in debt to your priceless advice
+255000	700	text	Hey
+256000	980	text	Wait
+257000	1700	text	I've got a new complaint
+259000	5000	text	Forever in debt to your priceless advice
+264500	750	text	Hey
+265250	750	text	Wait
+266000	2700	text	I've got a new complaint
+268000	7000	text	Forever in debt to your priceless advice
+277000	4000	text	Your advice
+282000	4000	text	Your advice
+287000	4000	text	Your advice

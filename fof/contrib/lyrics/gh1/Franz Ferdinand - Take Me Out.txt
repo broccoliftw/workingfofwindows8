@@ -1,0 +1,78 @@
+# Lyrics script: Franz Ferdinand - Take Me Out
+# Scripted by YMS to fit the Guitar Hero I version
+8500	2700	text	So if you're lonely
+11900	1100	text	You know I'm
+13100	2000	text	Here waiting for you
+15300	2600	text	I'm just a crosshair
+18600	1100	text	I'm just a
+19900	2000	text	Shot away from you
+22000	2600	text	And if you leave here
+25400	2000	text	You leave me broken
+27500	1300	text	Shattered I lie
+28900	2500	text	I'm just a crosshair
+32000	1100	text	I'm just a
+33300	3000	text	Shot then we can die
+36700	3700	text	Ah
+43400	2400	text	I know I
+46000	2900	text	Won't be leaving here
+49400	3400	text	With you
+85700	700	text	I say
+86500	1200	text	Don't you know
+88000	700	text	You say
+88800	1200	text	You don't know
+90300	1500	text	I say
+93400	1200	text	Take me out
+94800	700	text	I stay
+95700	1200	text	You don't show
+97100	700	text	Don't move
+98000	1200	text	Time is slow
+99400	1500	text	I say
+102600	2200	text	Take me out
+113100	700	text	Well I say
+114100	1200	text	You don't know
+115500	700	text	You say
+116400	1200	text	You don't know
+117800	1600	text	I say
+120900	1200	text	Take me out
+122300	700	text	If I move
+123200	1000	text	This could die
+124500	700	text	If eyes move
+125500	1200	text	This could die
+127000	2200	text	I want you
+129800	2400	text	To take me out
+135900	1500	text	I know I
+137600	2000	text	Won't be leaving here
+140300	1500	text	I know I
+142000	2100	text	Won't be leaving here
+144700	1500	text	I know I
+146500	2200	text	Won't be leaving here
+149300	1500	text	I know I
+150900	1800	text	Won't be leaving here
+153100	1800	text	With you
+163100	700	text	Well I say
+164000	1200	text	Don't you know
+165500	700	text	You say
+166400	1200	text	You don't know
+167800	1600	text	I say
+171000	1200	text	Take me out
+172400	700	text	If I wane
+173400	1100	text	This could die
+174800	700	text	I wait
+175700	1200	text	This could die
+177100	2200	text	I want you
+180000	1500	text	To take me out
+181700	700	text	If I move
+182500	1200	text	This could die
+184000	700	text	Eyes move
+184900	1100	text	This could die
+186300	2600	text	Come on
+189500	2200	text	Take me out
+204500	1500	text	I know I
+206200	2200	text	Won't be leaving here
+209000	1500	text	I know I
+210700	2200	text	Won't be leaving here
+213400	1500	text	I know I
+215200	2200	text	Won't be leaving here
+217900	1500	text	I know I
+219500	2000	text	Won't be leaving here
+221800	1100	text	With you

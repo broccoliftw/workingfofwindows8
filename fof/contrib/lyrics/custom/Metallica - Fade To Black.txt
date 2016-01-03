@@ -1,0 +1,25 @@
+# Lyrics script: Metallica - Fate To Black
+# Scripted by YMS to fit to the version Heka used
+87100	3900	text	Life it seems, will fade away
+91200	3800	text	Drifting further every day
+95500	4000	text	Getting lost within myself
+99700	3800	text	Nothing matters no one else
+104000	4000	text	I have lost the will to live
+108200	3800	text	Simply nothing more to give
+112400	4100	text	There is nothing more for me
+116600	3700	text	Need the end to set me free
+169600	4000	text	Things are what they used to be
+174000	3400	text	Missing one inside of me
+178000	3900	text	Deathly lost, this can't be real
+182300	3200	text	Cannot stand this hell I feel
+186600	3600	text	Emptiness is filling me
+190800	3800	text	To the point of agony
+194900	4000	text	Growing darkness taking down
+199200	6900	text	I was me, but now he's gone
+247300	2900	text	No one but me can save myself
+250300	2600	text	But it's too late
+254300	1500	text	Now I can't think
+256100	4500	text	Think why I should even try
+275300	5500	text	Yesterday seems as though it never existed
+282200	1500	text	Death greets me warm
+284000	4600	text	Now I will just say good-bye

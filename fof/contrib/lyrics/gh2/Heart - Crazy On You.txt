@@ -1,0 +1,44 @@
+# Lyrics script: Heart - Crazy On You
+# Converted by YMS using LRC2FOF to fit the Guitar Hero II version
+59590	1600	text	We may still have time
+61490	1450	text	We might still get by
+63240	3510	text	Every time I think about it I want to cry
+67050	1880	text	With the bombs and the devils
+69230	1390	text	And the kids keep coming
+70920	1620	text	Nowhere to breathe easy
+72840	4510	text	No time to be young
+81990	3690	text	But I tell myself that I'm doing alright
+85980	3200	text	There's nothing left to do tonight
+89480	2330	text	But go crazy on you
+94020	2150	text	Crazy on you
+96470	6500	text	Let me go crazy, crazy on you
+102990	2880	text	My love is the evening breeze touching your skin
+106170	3340	text	The gentle sweet singing of leaves in the wind
+109810	3440	text	The whisper that calls after you in the night
+113550	9000	text	And kisses your ear in the early light
+124920	3280	text	And you don't need to wonder, you're doing fine
+128500	2820	text	My love, the pleasure's mine
+131620	3430	text	Let me go crazy on you
+135350	3250	text	Crazy on you
+138900	7800	text	Let me go crazy, crazy on you
+146810	3270	text	Wild man's world is crying in pain
+150380	3510	text	What you gonna do when everyone is insane
+154190	2890	text	So afraid of wanting, so afraid of you
+157380	9900	text	What you gonna do
+167320	6900	text	Ahh
+174310	2590	text	Crazy on you
+177250	3620	text	Crazy on you
+181170	6000	text	Let me go crazy, crazy on you
+187220	3030	text	I was a willow last night in a dream
+190550	3570	text	I bent down over a clear running stream
+194420	3200	text	I sang you the song that I heard up above
+197920	7300	text	And you keep me alive with your sweet, flowing love
+205390	2850	text	Crazy on you
+208540	5900	text	Let me go crazy, crazy on you
+214500	2800	text	Crazy on you
+217690	3430	text	Crazy on you
+221420	7000	text	Let me go crazy, crazy on you
+262050	7400	text	Ahh
+269510	2190	text	Crazy on you
+272060	3470	text	Crazy on you
+275830	10000	text	Let me go crazy, crazy on you

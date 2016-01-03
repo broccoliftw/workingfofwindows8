@@ -1,0 +1,50 @@
+# [ar:Bad Religion]
+# [ti:Infected]
+# [by:LRC2FOF]
+# 
+40000	1800	text	Now here I go,
+42000	2310	text	Hope I dont break down,
+44510	1810	text	I wont take anything, 
+46520	1810	text	I dont need anything,
+48530	1660	text	Dont want to exist, 
+50290	2270	text	I cant persist,
+52760	2900	text	Please stop before I do it again,
+56060	1800	text	Just talk about nothing, 
+58060	5170	text	lets talk about nothing,
+64030	1880	text	Lets talk about no one, 
+66010	3340	text	please talk about no one, someone, anyone
+69750	3460	text	You and me have a disease,
+74010	3710	text	You affect me, you infect me,
+78520	2920	text	Im afflicted, youre addicted,
+81840	6150	text	You and me, you and me
+89590	1820	text	Im on the edge,
+91510	2270	text	Get against the wall,
+93980	1490	text	Im so distracted,
+95570	1800	text	I love to strike you,
+97470	2120	text	Heres my confession,
+99790	1770	text	You learned your lesson,
+101660	3470	text	Stop me before I do it again
+105530	1750	text	Just talk about nothing, 
+107380	4580	text	lets talk about nothing,
+113560	1830	text	Lets talk about no one, 
+115590	3540	text	please talk about no one, someone, anyone
+119530	3520	text	You and me have a disease,
+123850	3200	text	You affect me, you infect me,
+127850	3580	text	Im afflicted, youre addicted,
+131830	5560	text	You and me, you and me
+138990	3350	text	Youre clear - as a heavy lead curtain 
+142740	3560	text	want to drill you - like an ocean,
+146700	2040	text	We can work it out, Ive been running out,
+148940	3010	text	now Im running out
+152350	8710	text	Dont be mad about it baby,
+169060	8870	text	Yeah, yeah, yeah
+185930	3330	text	You and me have a disease,
+189660	4400	text	I want to tie you, crucify you,
+194860	3280	text	Kneel before you, revile your body,
+198540	3480	text	You and me, were made in heaven,
+202420	3030	text	I want to take you, I want to break you,
+205850	2860	text	Supplicate you, are incurable,
+209110	4110	text	You and me have a disease, are incurable
+214020	2280	text	I want to bathe you in holy water 
+216500	3790	text	I want to kill you, Upon the alter,
+221090	4000	text	you and me, you and me

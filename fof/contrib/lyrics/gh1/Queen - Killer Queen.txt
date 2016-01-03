@@ -1,0 +1,56 @@
+# Lyrics script: Queen - Killer Queen
+# Scripted by YMS to fit the Guitar Hero I version
+3000	2600	text	She keeps Moet et Chandon
+5800	2000	text	In her pretty cabinet
+8100	1900	text	'Let them eat cakes' she says
+10200	1700	text	Just like Marie Antoinette
+12200	2200	text	A built-in remedy for
+14400	2000	text	Khrushchev and Kennedy
+16500	2200	text	At anytime an invitation
+18700	2800	text	You can't decline
+21900	1800	text	Caviar and cigarettes
+24000	1700	text	Well versed in etiquette
+25800	1400	text	Extr'ordinarily nice
+27300	2700	text	She's a Killer Queen
+30100	1900	text	Gunpowder, gelatine
+32200	1700	text	Dynamite with a laserbeam
+34200	2500	text	Guaranteed to blow your mind
+37000	600	text	Anytime
+37600	2300	text	Ooh, recommended at the price
+40100	2000	text	Insatiable an appetite
+42900	2400	text	Wanna try?
+51900	2100	text	To avoid complications
+54200	1100	text	She never kept
+55300	1100	text	The same address
+56900	1700	text	In conversation she
+58600	1800	text	Spoke just like a baroness
+60600	1800	text	Met a man from China
+62500	2100	text	Went down to Geisha Minah
+64700	1700	text	Then again incidentally
+66400	2500	text	If you're that way inclined
+69000	1800	text	Perfume came naturally
+70800	500	text	From Paris
+71800	1100	text	For cars she couldn't
+72900	800	text	Care less
+73800	1500	text	Fastidious and precise
+75400	2600	text	She's a Killer Queen
+78100	1900	text	Gunpowder, gelatine
+80200	1800	text	Dynamite with a laserbeam
+82200	2700	text	Guaranteed to blow your mind
+85000	1000	text	Anytime
+121600	1600	text	Drop of a hat she's as
+123300	1500	text	Willing as playful
+124900	1100	text	As a pussy cat
+126100	2000	text	Then momentarily out of action
+128300	1800	text	Temporarily out of gas
+130200	1400	text	To absolutely drive you...
+135200	1600	text	She's all out to get you
+136800	2500	text	She's a Killer Queen
+139400	1800	text	Gunpowder, gelatine
+141500	1800	text	Dynamite with a laserbeam
+143500	2500	text	Guaranteed to blow your mind
+146000	900	text	Anytime
+146900	2300	text	Ooh, recommended at the price
+149300	2300	text	Insatiable an appetite
+152000	3600	text	Wanna try?
+155900	1700	text	You wanna try

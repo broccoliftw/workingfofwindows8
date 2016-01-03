@@ -1,0 +1,21 @@
+# [ar:Black Label Society]
+# [ti:Fire It Up]
+# [by:LRC2FOF]
+# 
+47000	2330	text	Fire it up
+49530	2600	text	Let the engines roll
+52530	4320	text	It's time to burn it down
+57650	4450	text	Keep bleeding on 'til the day you die
+62900	10000	text	Forever love it loud,
+88380	1800	text	Hellfire, doom
+90380	3230	text	Watch the hatred spin
+94010	4130	text	Beyond the speed of sound
+98940	1950	text	Fire it up
+101090	2790	text	Let the engines roll
+104280	10000	text	It's time to burn it down
+130340	5200	text	Keep moving on, Keep moving on
+140540	5890	text	Keep moving on, Keep moving on
+151430	2690	text	Face your fear accept your war
+154320	5160	text	It is what it is
+161080	4760	text	Face your fear accept your war
+167440	4000	text	Oh Yeah

@@ -1,0 +1,40 @@
+# Lyrics script: Bloc Party - Hunting For Witches
+# Scripted by YMS using LRC2FOF to fit the version samqwe / ryanpanties used
+48050	4710	text	I'm sitting on the roof of my house
+54160	1860	text	With a shotgun
+57460	3040	text	And a six pack of beer
+60900	2600	text	The newscaster says, "The enemy is among us"
+63900	2660	text	As bombs explode on the 30 bus
+66960	2600	text	Kill your middle class indecision
+69960	3310	text	Now is not the time for liberal thought
+74820	2600	text	So I go hunting for witches
+77820	2760	text	I go hunting for witches
+80980	2400	text	Heads are going to roll
+83980	1400	text	I go hunting for...
+85480	4220	text	90s, optimistic as a teen
+90790	2440	text	But now it's terror
+94100	2990	text	Airplanes crash into towers
+97490	2850	text	The Daily Mail says, "The enemy is among us"
+100740	2610	text	"Taking our women and taking our jobs"
+103750	2650	text	All reasonable thought is being drowned out
+106800	3310	text	By the non-stop baying, baying, baying for blood
+111460	2810	text	So I go hunting for witches
+114670	2800	text	I go hunting for witches
+117870	2000	text	Heads are going to roll
+120800	930	text	I go hunting for...
+121830	2610	text	I was an ordinary man with ordinary desires
+124840	2750	text	I watched TV, it informed me
+127790	3050	text	I was an ordinary man with ordinary desires
+131240	2610	text	There must be accountability
+134550	4910	text	Disparate and misinformed
+140260	3800	text	Fear will keep us all in place
+163500	2900	text	So I go hunting for witches
+166800	2610	text	I go hunting for witches
+169810	1900	text	Heads are going to roll
+172800	850	text	I go hunting for...
+173660	2940	text	I was an ordinary man with ordinary desires
+177000	2430	text	I watched TV, it informed me
+179630	3300	text	I was an ordinary man with ordinary desires
+183330	2340	text	There must be accountability
+186270	4510	text	Disparate and misinformed
+192380	3900	text	Fear will keep us all in place

@@ -1,0 +1,89 @@
+# Lyrics script: Alice Cooper - Poison
+# Scripted by YMS to fit to the version Divra used
+38500	1500	text	Your cruel
+40600	1600	text	Device
+42700	1600	text	Your blood
+44700	1800	text	Like ice
+46900	1600	text	One look
+48900	1600	text	Could kill
+51000	1600	text	My pain
+53000	3500	text	Your thrill
+56900	1100	text	I wanna love you
+58100	2300	text	But I better not touch
+61000	1100	text	I wanna hold you
+62200	1300	text	But my senses
+63700	1100	text	Tell me to stop
+65100	1100	text	I wanna kiss you
+66400	2300	text	But I want it too much
+69200	1100	text	I wanna taste you
+70400	800	text	But your lips
+71500	4800	text	Are venomous poison
+76500	1400	text	You're poison
+78000	2300	text	Running through my veins
+80500	4000	text	You're poison
+85000	1500	text	I don't wanna
+86800	2100	text	Break these chains
+93800	1500	text	Your mouth
+95800	1500	text	So hot
+98000	1600	text	Your web
+100000	1600	text	I'm caught
+102000	1600	text	Your skin
+104100	1600	text	So wet
+106100	1500	text	Black lace
+108100	3300	text	On sweat
+111900	1100	text	I hear you calling
+113200	2300	text	And it's needles and pins
+116000	1100	text	I wanna hurt you
+117300	1400	text	Just to hear you
+118800	1100	text	Screaming my name
+120100	1100	text	Don't wanna touch you
+121300	2300	text	But you're under my skin
+124100	1100	text	I wanna kiss you
+125400	800	text	But your lips
+126400	4600	text	Are venomous poison
+131300	1300	text	You're poison
+132800	2300	text	Running through my veins
+135300	3900	text	You're poison
+139800	1500	text	I don't wanna
+141500	1900	text	Break these chains
+143800	5600	text	Poison
+164800	1500	text	One look
+166900	1400	text	Could kill
+168900	1400	text	My pain
+170900	3300	text	Your thrill
+174700	1100	text	I wanna love you
+175900	2200	text	But I better not touch
+178700	1100	text	I wanna hold you
+180000	1300	text	But my senses
+181500	1100	text	Tell me to stop
+182700	1100	text	I wanna kiss you
+184000	2200	text	But I want it too much
+186700	1100	text	I wanna taste you
+188000	800	text	But your lips
+189000	4500	text	Are venomous poison
+193900	1300	text	You're poison
+195400	2300	text	Running through my veins
+197800	3900	text	You're poison
+202300	1400	text	I don't wanna
+204000	1800	text	Break these chains
+206200	3900	text	Poison
+210500	1100	text	I wanna love you
+211700	2200	text	But I better not touch
+214500	1100	text	I wanna hold you
+215700	1300	text	But my senses
+217200	1100	text	Tell me to stop
+218500	1100	text	I wanna kiss you
+219700	2100	text	But I want it too much
+222400	1100	text	I wanna taste you
+223700	800	text	But your lips
+224600	4700	text	Are venomous poison
+229700	1800	text	Well I don't wanna
+231700	1700	text	Break these chains
+233900	3800	text	Poison
+238300	800	text	Runnin' deep
+239300	2300	text	Inside my veins
+242300	800	text	Burnin' deep
+243200	2100	text	Inside my veins
+245400	3600	text	It's poison
+249500	1600	text	I don't wanna
+251300	2900	text	Break these chains

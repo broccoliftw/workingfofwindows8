@@ -1,0 +1,81 @@
+# Lyrics script: Red Hot Chili Peppers - Suck My Kiss
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+6230	1890	text	 Yeah
+8420	1630	text	 Oh yeah
+15600	1870	text	 Yeah
+17770	5100	text	 Oh yeah
+22850	850	text	 Hit me!
+32830	920	text	 Should have been, could have been
+34050	900	text	 Would have been dead
+34970	910	text	 If I didn't get a message
+36180	1380	text	 Goin' thru' my head
+37860	1760	text	 I am what I am
+39920	850	text	 Most ****
+40790	1500	text	 Don't give a ****
+42590	2010	text	 Aw, baby, think you can
+44900	1750	text	 Be my girl, I'll be your man
+46950	870	text	 Someone full of fun
+48120	920	text	 Do me 'till I'm well done
+49340	860	text	 Little Bo peep
+50220	1480	text	 Cumin' from my stun gun
+52000	1820	text	 Beware... take care
+54120	850	text	 Most ****
+54990	1420	text	 Have a cold **** stare
+56710	1730	text	 Aw, baby, please be there
+58740	2730	text	 Suck my kiss, cut me my share
+66500	2540	text	 Hit me, you can't hurt me
+69340	1460	text	 Suck my kiss
+71100	2610	text	 Kiss me, please pervert me
+74010	1480	text	 Stick with this
+75790	2530	text	 Is she talking dirty
+80020	1690	text	 Give to me sweet sacred bliss
+82010	2420	text	 Your mouth was made to suck my kiss
+94180	860	text	 Look at me, can't you see
+95340	860	text	 All I really want to be
+96500	990	text	 Is free from a world
+97790	1010	text	 That hurts me
+99100	1840	text	 I need relief
+101240	830	text	 Do you want me, girl
+102090	1480	text	 To be your thief
+103870	1390	text	 Aw, baby, just for you
+105560	2400	text	 I'd steal anything that you want me to
+108260	2010	text	 K - I - S - S - I - N - G
+110570	770	text	 Chicka chicka dee
+111360	1570	text	 Do me like a banshee
+113230	1700	text	 Low brow is how
+115230	920	text	 Swimming in the sound
+116170	1420	text	 Of bow wow wow
+117890	1740	text	 Aw, baby, do me now
+119930	2680	text	 Do me here, I do allow
+127590	2630	text	 Hit me, you can't hurt me
+130520	1510	text	 Suck my kiss
+132330	2600	text	 Kiss me, please pervert me
+135230	1580	text	 Stick with this
+137110	2740	text	 Is she gonna curtsy
+141230	1700	text	 Give to me sweet sacred bliss
+143230	2440	text	 That mouth was made to...
+165260	910	text	 Should have been, could have been
+166470	840	text	 Would have been dead
+167330	910	text	 If I didn't get the message
+168540	1350	text	 Goin' thru my head
+170190	1780	text	 I am what I am
+172270	890	text	 Most ****
+173180	1400	text	 Have a cold *** stare
+174880	1950	text	 Aw, baby, think you can
+177130	2220	text	 Be my girl, I'll be your man
+179650	840	text	 Someone full of fun
+180790	880	text	 Do me 'till I'm well done
+181970	830	text	 Little Bo peep
+182820	1450	text	 Cummin' from my stun gun
+184570	1750	text	 Beware... take care
+186620	840	text	 Most ****
+187480	1580	text	 Have a cold **** stare
+189360	1720	text	 Aw, baby, please be there
+191380	2620	text	 Suck my kiss, cut me my share
+198940	1850	text	 Hit me, you can't hurt me
+201790	1470	text	 Suck my kiss
+203560	2650	text	 Kiss me, please pervert me
+206510	1480	text	 Stick with this
+208290	2330	text	 Is she talking dirty
+212480	1760	text	 Give to me sweet sacred bliss
+214540	2610	text	 That mouth was made to suck my kiss

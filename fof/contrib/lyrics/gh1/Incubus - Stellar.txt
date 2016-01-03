@@ -1,0 +1,39 @@
+# [ar:Incubus]
+# [ti:Stellar]
+# [by:LRC2FOF]
+# 
+300	5400	text	 (You are Stellar)
+7300	5400	text	Meet me in outer space.
+14300	4200	text	We could spend the night;
+19300	2600	text	watch the earth come up.
+22300	4200	text	I've grown tired of that place;
+27300	1800	text	won't you come with me?
+29300	5000	text	We could start again.
+39300	2600	text	How do you do it?
+42300	4200	text	Make me feel like I do.
+47300	1800	text	How do you do it?
+49300	10000	text	It's better than I ever knew.
+71300	5400	text	Meet me in outer space.
+78300	4130	text	I will hold you close, 
+83230	1870	text	if you're afraid of heights.
+85300	5010	text	I need you to see this place, 
+91110	1990	text	it might be the only way
+93300	3200	text	that I can show you how
+97300	6000	text	it feels to be inside of you.
+106300	2600	text	How do you do it?
+109300	4200	text	Make me feel like I do.
+114300	1800	text	How do you do it?
+116300	4200	text	It's better than I ever knew.
+121300	2600	text	How do you do it?
+124300	10000	text	Make me feel like I do.
+144300	5000	text	You are stellar,
+152300	5400	text	You are stellar.
+159300	2600	text	How do you do it?
+162300	4200	text	Make me feel like I do.
+167300	1800	text	How do you do it?
+169300	4200	text	It's better than I ever knew.
+174300	2600	text	How do you do it?
+177300	4200	text	Make me feel like I do.
+182300	1800	text	How do you do it?
+184300	5000	text	Make me feel like I do.
+192300	4000	text	Yeah!

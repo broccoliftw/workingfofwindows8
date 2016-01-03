@@ -1,0 +1,47 @@
+# Lyrics script: Limozeen - Because, It's Midnite
+# Scripted by V4Vendetta for Rock the 80s Encore
+16900  1500 text walking the streets
+18600  1250 text I've got a feelin'
+20000  1200 text It's leather tough
+21300  1900 text You'd better believe it
+23300  1300 text Waking up late
+24900  1000 text Asleep in the gutter
+26400  1000 text Breakin' the chains
+27500  1400 text You'd better cut me some!
+29000  2100 text Heart of a Lion
+31700  2000 text And the wings of a Bat
+33750  1350 text Because it's Midnite
+35200  2500 text Heart of a Lion
+38400  2000 text And the wings of a Bat
+40600  1550 text Because it's Midnite
+42600  1800 text Sunset strip, 
+44300  1000 text California
+45900  1000 text West Hollywood
+47500  1600 text I'm gonna warn you
+49150  1500 text Streets my soldiers
+50900  1200 text Takin' up arms
+52200  2800 text Bringin' the metal back to where it belongs!
+55500  2200 text -Of a Lion
+57800  2200 text And the wings of a Bat
+60090  1200 text Because it's Midnite
+61400  2600 text The Heart of a Lion
+64300  2000 text And the wings of a Bat
+66200  1650 text Because it's Midnite
+82000  1900 text Liquid 'n' Leather
+85450  2000 text In equal measure
+89150  1950 text Champagne glass
+92000  2000 text Mix 'em together
+94500  1000 text Sweet city sweat
+96000  1800 text Vampire love
+98000  1350 text Crimson falls down
+99425  1200 text From the wings of a dove
+100500 1650 text Floating over the pavement
+102200 1400 text Guitars take flight
+103700 1200 text Wearin' my tightest pants
+105000 1650 text Because it's Midnite!
+107000 1725 text Heart of a Lion
+109000 2400 text And the wings of a Bat
+111600 1300 text Because it's Midnite
+113000 2400 text The Heart of a Lion
+115700 2400 text And the wings of a Bat
+118200 1700 text Because it's Midnite 

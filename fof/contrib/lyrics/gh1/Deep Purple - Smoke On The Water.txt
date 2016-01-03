@@ -1,0 +1,43 @@
+# Lyrics script: Deep Purple - Smoke On The Water
+# Scripted by YMS to fit the Guitar Hero I version
+55000	3500	text	We all came out to Montreux
+58800	3800	text	On the Lake Geneva shoreline
+63900	3300	text	To make records with a mobile
+69200	2400	text	We didn't have much time
+72400	3300	text	Oh Frank Zappa and the Mothers
+76000	3100	text	Were at the best place around
+80800	3100	text	But some stupid with a flare gun
+84800	900	text	Burned the place
+85800	1600	text	To the ground
+88900	4100	text	Smoke on the water
+93500	2200	text	A fire in the sky
+97500	4300	text	Smoke on the water
+118800	3300	text	It burned down the gambling house
+122500	2900	text	It died with an awful sound
+127300	1400	text	Ah Funky Claude
+128800	2300	text	Was running in and out
+132900	2200	text	Pulling kids out the ground
+136000	2900	text	When it all was over
+139400	2800	text	We had to find another place
+144100	3100	text	But Swiss time was running out
+147800	3100	text	It seemed that we would lose the race
+152200	4100	text	Smoke on the water
+156700	2300	text	A fire in the sky
+160700	4300	text	Smoke on the water
+240000	1400	text	We ended up at the
+241600	2200	text	Grand Hotel
+244400	1300	text	It was empty
+245900	1100	text	Cold and bare
+247200	2700	text	But with the rolling truck stones thing
+250100	2100	text	Just outside
+252800	2700	text	Hah, making our music there
+255700	1900	text	With a few red lights
+258100	1800	text	A few old beds
+260700	2400	text	We made a place to sweat
+264800	1200	text	No matter what
+266400	1700	text	We get out of this
+269000	800	text	I know
+270100	2200	text	I know we'll never forget
+272900	4000	text	Smoke on the water
+277400	2200	text	A fire in the sky
+281300	3700	text	Smoke on the water

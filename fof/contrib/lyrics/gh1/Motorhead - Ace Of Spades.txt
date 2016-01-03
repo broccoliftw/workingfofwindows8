@@ -1,0 +1,38 @@
+# Lyrics script: Motorhead - Ace of Spades
+# Scripted by YMS to fit the Guitar Hero I version
+16000	1400	text	If you like to gamble
+17400	1500	text	I tell you I'm your man
+19200	1600	text	You win some, lose some
+20900	1900	text	It's all the same to me
+28800	2200	text	The pleasure is to play
+31000	2100	text	Makes no difference what you say
+36100	1800	text	I don't share your greed
+37900	1200	text	The only card I need
+39200	1600	text	Is the Ace of Spades
+41100	1400	text	The Ace of Spades
+46400	2100	text	Playing for the high one
+48500	1300	text	Dancing with the devil
+49800	1200	text	Going with the flow
+51700	1900	text	It's all a game to me
+60000	2000	text	Seven or eleven
+62000	2000	text	Snakeeyes watching you
+66800	2200	text	Double up or quit
+69000	1000	text	Double stake or split
+70000	1400	text	The Ace of Spades
+71800	1500	text	The Ace of Spades
+81300	1400	text	You know I'm born to lose
+82700	1600	text	And gambling is for fools
+84300	800	text	But that's the way
+85100	1000	text	I like it baby
+86100	1600	text	I don't wanna live forever
+93400	1600	text	And don't forget the Joker
+121700	2000	text	Pushing up the ante
+123700	1700	text	I know you wanna see me
+125400	900	text	Read 'em and weep
+126300	1900	text	The dead man's hand again
+135000	2500	text	I see it in your eyes
+137500	1700	text	Take one look and die
+142500	2000	text	The only thing you see
+144500	1500	text	You know it's gonna be
+146000	1500	text	The Ace of Spades
+147500	1500	text	The Ace of Spades

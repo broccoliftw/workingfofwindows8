@@ -1,0 +1,46 @@
+# [ar:Drist]
+# [ti:Decontrol]
+# [by:LRC2FOF]
+# 
+31990	2490	text	This is a final sign of
+34680	1860	text	what we cannot take.
+36740	1930	text	You forced a bitter 
+38870	2670	text	end to this story.
+41740	2180	text	The walls are closing down 
+44120	1860	text	to this place we live.
+46180	2050	text	Say your last goodbyes, 
+48430	2010	text	not to me cause.
+50640	1850	text	This seperation will explode.
+52690	2420	text	A starry sea, awakening. 
+55310	2920	text	A fascination with this old style sence
+58630	2830	text	of right and wrong.
+61860	1970	text	What's wrong with me, 
+64030	2280	text	it's hard to speak when it's all about 
+66510	8540	text	the way we hold a gun at our own mouths.
+80050	2300	text	A fatal blinding sight. 
+82550	2550	text	It's the price I pay for looking through
+85300	3220	text	the sun for a change. 
+88920	4180	text	The walls are closing down and eventually,
+93900	3690	text	we say our last goodbyes, we see.
+98390	2120	text	This seperation will explode.
+100710	2110	text	A starry sea, awakening. 
+103020	3580	text	A fascination with this old style sence
+107400	1440	text	of right and wrong.
+108940	2610	text	What's wrong with me, 
+111750	2280	text	it's hard to speak when it's all about 
+114230	5000	text	the way we hold a gun at our own mouths.
+155450	3570	text	will explode
+159820	4120	text	right and wrong
+164740	2390	text	This seperation will explode.
+167330	1800	text	A starry sea, awakening. 
+169330	3200	text	A fascination with this old style sence
+173330	2430	text	of right and wrong.
+175960	2240	text	What's wrong with me, 
+178400	1840	text	it's hard to speak when it's all about 
+180340	5800	text	the way we hold a gun at our own mouths
+187740	2610	text	at our own mouths
+190550	2110	text	the way we hold a gun
+192860	2120	text	at our own mouths
+195180	2230	text	the way we hold a gun
+197610	2000	text	at our own mouths
+199810	4000	text	the way we hold a gun

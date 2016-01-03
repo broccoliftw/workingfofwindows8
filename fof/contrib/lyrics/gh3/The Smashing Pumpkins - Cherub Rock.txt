@@ -1,0 +1,39 @@
+# Lyrics script: The Smashing Pumpkins - Cherub Rock
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+59200	2480	text	Freak out
+61980	2360	text	Give in
+64640	3650	text	Doesn't matter what you believe in
+70120	3000	text	Stay cool
+73420	3720	text	And be somebody's fool this year
+78400	2550	text	'Cause they know
+81250	3460	text	Who is righteous, what is bold
+85010	1290	text	So I'm told
+87450	5400	text	Who wants honey
+92880	5300	text	As long as there's some money
+98870	5800	text	Who wants that honey?
+114470	4500	text	Hipsters unite
+120140	5300	text	Come align for the big fight to rock for you
+125480	2890	text	Beware
+128670	3500	text	All those angels with their wings glued on
+133790	1720	text	'Cause deep down
+136930	2740	text	They are frightened and they're scared
+140310	1360	text	If you don't stare
+142730	5400	text	Who wants honey
+148130	5100	text	As long as there's some money
+154160	5600	text	Who wants that honey?
+161070	1930	text	Let me out
+164450	3980	text	Yeah... let me out
+169940	3900	text	Yeah... let me out
+175430	5400	text	Yeah... let me out
+214610	4240	text	Tell me all of your secrets
+219980	5300	text	Cannot help but believe this is true
+225280	4170	text	Tell me all of your secrets
+229750	1850	text	I know, I know, I know
+231900	2220	text	Should have listened when I was told
+236000	4340	text	Who wants honey
+240640	5200	text	As long as there is some money
+246670	5500	text	Who wants that honey?
+253580	2040	text	Let me out
+256940	4040	text	Yeah... let me out
+262330	4300	text	Yeah... let me out
+267830	6500	text	Yeah... let me out

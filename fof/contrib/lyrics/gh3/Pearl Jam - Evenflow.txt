@@ -1,0 +1,37 @@
+# Lyrics script: Pearl Jam - Even Flow
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero III version
+17500	4000	text	Freezin', rests his head on a pillow
+21500	4000	text	Made of concrete, again
+26500	4000	text	Oh, feelin' maybe he'll see a little better
+30500	4000	text	Set a days, ooh yeah
+35500	4000	text	Oh, hand out, faces that he sees time again
+39500	4000	text	Ain't that familiar, oh yeah
+44500	4000	text	Oh, dark grin, he can't help
+48500	4000	text	When he's happy looks insane, oh yeah
+63500	7000	text	Even flow, thoughts arrive like butterflies
+72500	7000	text	Oh, he don't know, so he chases them away
+81500	7500	text	Someday yet, he'll begin his life again
+89000	4200	text	Life again, life again...
+93500	4000	text	Kneelin', looking through the paper
+97500	2000	text	Though he doesn't know to read
+100500	1700	text	Ooh yeah
+102500	3000	text	Oh, prayin', out to something
+105500	3000	text	That has never showed him anything
+111500	3500	text	Oh, feelin', understands the weather
+115000	2500	text	Of the winters on its way
+120500	3000	text	Oh, ceilings, few and far
+123500	4500	text	Between all illegal halls of shame, yeah
+131500	7000	text	Even flow, thoughts arrive like butterflies
+140500	7000	text	Oh, he don't know, so he chases them away
+149500	8000	text	Someday yet, he'll begin his life again
+158500	6500	text	Whispering hands, gently lead him away
+165500	6000	text	Him away, him away...
+171500	2700	text	Yeah!
+174500	4000	text	Woo...ah yeah...
+235000	7000	text	Even flow, thoughts arrive like butterflies
+243000	7000	text	Oh, he don't know, so he chases them away
+253000	8000	text	Someday yet, he'll begin his life again, yeah
+261500	6500	text	Oh, whispering hands, gently lead him away
+269500	6000	text	Him away, him away...
+275500	1700	text	Yeah!
+277500	8000	text	Woo...uh huh...yeah, yeah, mommy, mommy...

@@ -1,0 +1,53 @@
+# [artist:Pantera]
+# [title:Cowboys from Hell]
+# [album:Cowboys from Hell]
+# 
+5208	5103	text	Pantera
+15208	5103	text	Cowboys from Hell
+51208	2103	text	Under the lights where we stand tall
+53611	1795	text	Nobody touches us at all
+55706	1795	text	Showdown, shootout
+57801	1348	text	spread fear within, without
+59449	2242	text	We're gonna take what's ours to have
+61991	1119	text	Spread the word throughout the land
+63410	2549	text	They say the bad guys wear black
+66259	1702	text	We're tagged and can't turn back
+68261	1026	text	You see us comin'
+69587	3107	text	And you all together run for cover
+72994	3166	text	We're takin over this town
+76460	1655	text	Here we come reach for your gun
+78415	2012	text	And you better listen well my friend, you see
+80727	1688	text	It's been slow down below,
+82715	1871	text	Aimed at you we're the cowboys from hell
+84886	1442	text	Deed is done again, we've won
+86628	1873	text	Ain't talking no tall tales friend
+88801	1980	text	'Cause high noon, your doom
+91081	1796	text	Comin' for you we're the cowboys from hell
+105610	1547	text	Pillage the village, trash the scene
+107457	1767	text	But better not take it out on me
+109524	2119	text	'Cause a ghost town is found
+111943	1455	text	Where your city used to be
+113698	2366	text	So out of the darkness and into the light
+116364	1133	text	Sparks fly everywhere in sight
+117797	2457	text	From my double barrel, 12 gauge,
+120554	1796	text	Can't lock me in your cage
+122650	1025	text	You see us comin'
+123975	2998	text	And you all together run for cover
+127273	3121	text	We're takin over this town
+130694	1655	text	Here we come reach for your gun
+132649	2089	text	And you better listen well my friend, you see
+135038	1671	text	It's been slow down below,
+137009	1781	text	Aimed at you we're the cowboys from hell
+139090	1457	text	Deed is done again, we've won
+140847	1794	text	Ain't talking no tall tales friend
+142941	2119	text	'Cause high noon, your doom
+145360	4586	text	Comin' for you we're the cowboys from hell
+204710	1348	text	Here we come reach for your gun
+206358	2245	text	And you better listen well my friend, you see
+208903	1578	text	It's been slow down below,
+210781	1794	text	Aimed at you we're the cowboys from hell
+212875	1566	text	Deed is done again, we've won
+214741	1748	text	Ain't talking no tall tales friend
+216789	1998	text	'Cause high noon, your doom
+219087	2318	text	Comin' for you we're the cowboys from hell
+223230	4000	text	Step aside for the cowboys from hell

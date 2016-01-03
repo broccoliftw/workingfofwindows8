@@ -1,0 +1,52 @@
+# Lyrics script: The Police - Synchronicity II
+# Converted by YMS using LRC2FOF to fit the Guitar Hero Encore: Rocks The 80s version
+16860	4000	text	Oh oh oh
+23200	4000	text	Oh oh oh
+29220	4000	text	Oh oh oh
+35230	4000	text	Oh oh oh
+41950	4000	text	Another suburban family morning
+48100	4190	text	Grandmother screaming at the wall
+54200	4000	text	We have to shout above the din of our Rice Crispies
+60320	4140	text	We can't hear anything at all
+65530	4000	text	Mother chants her litany of boredom and frustration
+71730	4000	text	But we know all her suicides are fake
+78090	4030	text	Daddy only stares into the distance
+84040	4000	text	There's only so much more that he can take
+90260	1960	text	Many miles away
+92520	2850	text	Something crawls from the slime
+95670	1780	text	At the bottom of a dark
+98600	1670	text	Scottish lake
+102760	4610	text	Another industrial ugly morning
+108040	4490	text	The factory belches filth into the sky
+114460	4530	text	He walks unhindered through the picket lines today
+120940	3810	text	He doesn't think to wonder why
+126260	2580	text	The secretaries pout and preen like
+129140	2840	text	Cheap tarts in a red light street
+132280	4290	text	But all he ever thinks to do is watch
+138280	2590	text	And every single meeting with his
+141170	2020	text	So-called superior
+143980	2980	text	Is a humiliating kick in the crotch
+150640	1990	text	Many miles away
+152930	2640	text	Something crawls to the surface
+155870	2540	text	Of a dark Scottish loch
+187080	4000	text	Another working day has ended
+193030	3660	text	Only the rush hour hell to face
+198970	4000	text	Packed like lemmings into shiny metal boxes
+204340	4670	text	Contestants in a suicidal race
+210430	1650	text	Daddy grips the wheel
+212380	3540	text	And stares alone into the distance
+216330	4670	text	He knows that something somewhere has to break
+222420	2540	text	He sees the family home now
+225260	2730	text	Looming in his headlights
+228290	4000	text	The pain upstairs that makes his eyeballs ache
+237470	1900	text	Many miles away
+239670	2500	text	There's a shadow on the door
+242890	1970	text	Of a cottage on the shore
+245850	1040	text	Of a dark
+248800	4000	text	Scottish lake
+259440	4000	text	Many miles away
+265400	4000	text	Many miles away
+271270	4000	text	Many miles away
+277250	4000	text	Many miles away
+283030	4000	text	Many miles away
+288940	4000	text	Many miles away

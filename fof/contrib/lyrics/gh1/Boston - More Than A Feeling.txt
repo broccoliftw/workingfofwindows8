@@ -1,0 +1,44 @@
+# [ar:Boston]
+# [ti:More Than A Feeling]
+# [al:Greatest Hits]
+# [by:LRC2FOF]
+# 
+22000	3000	text	I looked out this morning,
+25000	1700	text	and the sun was gone
+27000	3200	text	Turned on some music to start my day
+31000	3700	text	Then lost myself in a familiar song
+35000	4900	text	I closed my eyes, and I slipped away
+42000	8000	text	Chorus
+55000	2200	text	It's more than a feeling 
+57200	1500	text	(more than a feeling)
+59000	2200	text	When I hear that old song 
+61200	2500	text	they used to play (more than a feeling)
+64000	2200	text	And I begin dreamin' 
+66200	1500	text	(more than a feeling)
+68000	4700	text	Till I see Marianne walk away
+73500	9500	text	I see my Marianne walkin' away
+91000	3200	text	So many people have come and gone
+95000	3700	text	Their faces fade as the years go by
+99500	3700	text	Yet I still recall as I wander on
+104000	5400	text	As clear as the sun in summer sky
+111000	10000	text	Repeat Chorus
+124000	2200	text	It's more than a feeling 
+126200	1500	text	(more than a feeling)
+127900	2200	text	When I hear that old song 
+130100	2700	text	they used to play (more than a feeling)
+133000	2200	text	And I begin dreamin' 
+135200	1700	text	(more than a feeling)
+137000	4700	text	Till I see Marianne walk away
+142500	4000	text	I see my Marianne walkin' away
+188000	3700	text	When I'm tired and thinkin' cold
+192500	3700	text	I hide in my music and forget the day
+197000	3200	text	And dream of a girl I used to know
+201000	7500	text	I closed my eyes and she slipped away
+213500	7500	text	She slipped away
+226000	9710	text	Repeat Chorus
+240710	2010	text	It's more than a feeling 
+242920	1740	text	(more than a feeling)
+244760	2490	text	When I hear that old song 
+247450	2460	text	they used to play (more than a feeling)
+250110	3540	text	And I begin dreamin' (more than a feeling)
+254050	4000	text	Till I see Marianne walk away

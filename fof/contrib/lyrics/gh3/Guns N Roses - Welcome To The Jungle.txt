@@ -1,0 +1,65 @@
+# Lyrics script: Guns N' Roses - Welcome To The Jungle
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+10100	2000	text	Oh my god!
+42600	1200	text	Welcome to the jungle
+43800	1500	text	We got fun 'n' games
+45600	1700	text	We got everything you want
+47600	1700	text	Honey, we know the names
+49600	1700	text	We are the people that can find
+51600	1700	text	Whatever you may need
+53600	1700	text	If you got the money, honey
+55600	1700	text	We got your disease
+57600	980	text	In the jungle
+58600	1700	text	Welcome to the jungle
+60600	980	text	Watch it bring it to your
+61600	4700	text	Kn-kn-knees, knees
+66600	2700	text	I, I wanna watch you bleed
+69600	1700	text	Welcome to the jungle
+71600	1700	text	We take it day by day
+73600	980	text	If you want it you're gonna bleed
+74600	1700	text	But it's the price you pay
+76600	1700	text	And you're a very sexy girl
+78600	1700	text	Who's very hard to please
+80600	1700	text	You can taste the bright lights
+82600	1700	text	But you won't get them for free
+84600	980	text	In the jungle
+85600	1700	text	Welcome to the jungle
+87600	5500	text	Feel my, my, my, serpentine
+93600	4000	text	I, I wanna hear you scream
+112600	1700	text	Welcome to the jungle
+114600	1700	text	It gets worse here everyday
+116600	1700	text	You learn to live like an animal
+118600	980	text	In the jungle where we play
+119600	1700	text	If you got a hunger for what you see
+121600	1700	text	You'll take it eventually
+123600	1700	text	You can have anything you want
+125600	1700	text	But you better not take it from me
+127600	980	text	In the jungle
+128600	1700	text	Welcome to the jungle
+130600	1700	text	Watch it bring it to your
+132600	3700	text	Kn-kn-knees, knees
+136600	4000	text	I, I wanna watch you bleed
+148600	3700	text	And when you're high you never
+152600	1700	text	Ever want to come down
+154600	1700	text	Sucked down
+156600	1700	text	Sucked down
+158600	1700	text	So down
+160600	4000	text	Yeah!
+219200	2100	text	You know where you are?
+221600	1700	text	You're in the jungle, baby
+223600	4000	text	You're gonna die
+230600	980	text	In the jungle
+231600	980	text	Welcome to the jungle
+232600	1700	text	Watch it bring you to your
+234600	2700	text	Kn-kn-knees, knees
+237600	980	text	In the jungle
+238600	1700	text	Welcome to the jungle
+240600	4700	text	Feel my, my, my, serpentine
+245600	980	text	In the jungle
+246600	1700	text	Welcome to the jungle
+248600	980	text	Watch it bring you to your
+249600	3700	text	Kn-kn-knees, knees
+253600	980	text	In the jungle
+254600	980	text	Welcome to the jungle
+255600	1700	text	Watch it bring you to your
+257600	4000	text	It's gonna bring you down - Ha!

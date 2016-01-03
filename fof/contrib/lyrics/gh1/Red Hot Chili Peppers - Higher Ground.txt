@@ -1,0 +1,49 @@
+# Lyrics script: Red Hot Chili Peppers - Higher Ground
+# Converted by YMS using LRC2FOF to fit the Guitar Hero I version
+24080	2130	text	 People
+26510	2240	text	 Keep on learnin'
+30740	2260	text	 Soldiers
+33300	2000	text	 Keep on warrin'
+37700	2470	text	 The World
+40470	2830	text	 Keep on turnin'
+43600	2100	text	 Cause it won't be too long
+51460	1710	text	 Powers
+53470	2840	text	 Keep on lyin'
+57710	2740	text	 While your people
+60750	2360	text	 Keep on dyin'
+64730	2440	text	 The World
+67470	2840	text	 Keep on turnin'
+70610	2270	text	 Cause it won't be too long
+78430	3010	text	 I'm so darn glad he let me try it again
+81740	1420	text	 Cause my last time on earth
+83460	1590	text	 I lived a whole world of sin
+85350	3060	text	 I'm so glad that I know more than I knew then
+88710	5000	text	 Gonna keep on tryin' till I reach the highest ground
+99240	2120	text	 Teachers
+101660	2390	text	 Keep on teachin'
+105920	2000	text	 Preachers
+108220	2500	text	 Keep on preachin'
+112590	2480	text	 The World
+115370	2500	text	 Keep on turnin'
+118170	2730	text	 Cause it won't be too long
+122430	820	text	 Oh, no
+126280	2170	text	 Lovers
+128750	2060	text	 Keep on lovin'
+132560	2140	text	 While believers
+135000	2760	text	 Keep on believin'
+139570	2520	text	 Sleepers
+142390	2620	text	 Just stop sleepin'
+145310	2260	text	 Cause it won't be too long
+149380	1280	text	 Oh, no!
+153110	2860	text	 I'm so darn glad he let me try it again
+156270	1420	text	 Cause my last time on earth
+157990	1760	text	 I lived a whole world of sin
+160050	2910	text	 I'm so glad that I know more than I knew then
+163260	3910	text	 Gonna keep on tryin' till I reach the highest ground
+167470	1490	text	 An' Stevie knows that, uh
+169260	1840	text	 Nobody's gonna bring me down
+174550	1260	text	 Cause me 'n' Stevie, see
+176110	2910	text	 We're gonna be a sailin' on the funky funky sound
+180660	2510	text	 Bustin' out, an' I'll break you out
+183470	2690	text	 Cause I'm sailin' on
+188290	4370	text	 Just, uh, sailin' on, sailin' on the higher ground

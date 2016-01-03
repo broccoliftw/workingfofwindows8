@@ -1,0 +1,41 @@
+# Lyrics script: Aerosmith - Last Child
+# Converted by YMS using LRC2FOF to fit the Guitar Hero II version
+12830	7400	text	 I'm dreaming tonight
+20190	7000	text	 I'm leaving back home
+27160	1150	text	 Right!
+38620	3180	text	 Take me back to a south Tallahassee
+43710	3690	text	 Down cross the bridge to my sweet sassafrassy
+49040	3610	text	 Can't stand up on my feet in the city
+54250	3800	text	 Gotta get back to the real nitty gritty
+59910	2680	text	 Yes sir, no sir, don't come close to my
+62890	2550	text	 Home sweet home can't catch no dose of my
+65740	2410	text	 Hot tail poon tang sweetheart sweathog ready to
+68450	3430	text	 Make a silk purse from a J. Paul Getty and his ear
+72630	1550	text	 With her face in the beer
+76480	2690	text	 Home
+79470	1880	text	 Sweet
+81650	3660	text	 Home
+87210	3620	text	 Get out in the field, put the mule in the stable
+92460	3810	text	 Ma, she's a cookin', put the eats on the table
+98520	3030	text	 Hate's in the city and my love's in the meadow
+103950	3110	text	 Hands on the plow and my feets in the ghetto
+109220	2450	text	 Stand up, sit down, don't do nothing, it
+111970	2600	text	 Ain't no good when boss man's stuffin' it
+114870	2550	text	 Down their throats for paper notes and their
+117720	4260	text	 Babies cry while cities lie at their feet
+125790	2260	text	 Home
+128350	2620	text	 Sweet
+131270	2850	text	 Home
+168930	2170	text	 Mama, take me
+171400	2280	text	 Home sweet home
+173980	1430	text	 I was the last child
+175710	2940	text	 Just a punk in the streets
+178950	1800	text	 I was the last child
+181050	3310	text	 Just a punk in the streets
+184660	1660	text	 I was the last child
+186620	2840	text	 Just a punk in the streets
+189760	1800	text	 I was the last child
+191860	3620	text	 Just a punk in the streets
+247700	2960	text	 Home
+250960	1970	text	 Sweet
+253230	3540	text	 Home

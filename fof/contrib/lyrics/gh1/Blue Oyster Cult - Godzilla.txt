@@ -1,0 +1,49 @@
+# Lyrics script: Blue Öyster Cult - Godzilla
+# Converted by YMS using LRC2FOF to fit the Guitar Hero I version
+25455	1048	text	With a purposeful grimace
+26803	976	text	And a terrible sound
+28079	3838	text	He pulls the spitting high-tension wires down
+36357	2324	text	Helpless people on subway trains
+38981	3401	text	Scream bug-eyed as he looks in on them
+46619	894	text	He picks up a bus
+47813	1114	text	And he throws it back down
+49227	1020	text	As he wades through the buildings
+50547	2410	text	Toward the center of town
+57303	1989	text	Oh no
+59592	1759	text	They say he's got to go
+61651	2342	text	Go go Godzilla
+64293	1349	text	Yeah
+67752	2441	text	Oh no
+70493	1317	text	There goes Tokyo
+72110	2238	text	Go go Godzilla
+74648	1394	text	Yeah
+99577	1996	text	Oh no
+101873	1762	text	They say he's got to go
+103935	2402	text	Go go Godzilla
+106637	1458	text	Yeah
+110120	2325	text	Oh no
+112745	1339	text	There goes Tokyo
+114384	2418	text	Go go Godzilla
+117102	1341	text	Yeah
+128879	4370	text	Godzilla! zilla...zilla...God zilla...
+133549	4000	text	God zilla God zilla God zilla
+153530	1977	text	Oh no
+155807	1652	text	They say he's got to go
+157759	2418	text	Go go Godzilla
+160477	1518	text	Yeah
+163961	2106	text	Oh no
+166367	1449	text	There goes Tokyo
+168116	2542	text	Go go Godzilla
+170958	1231	text	Yeah
+184798	1996	text	History shows again and again
+187094	4276	text	How nature points up the folly of man
+191670	1122	text	Godzilla!
+195278	1996	text	History shows again and again
+197574	4293	text	How nature points up the folly of man
+202167	1215	text	Godzilla!
+205744	2105	text	History shows again and again
+208149	4229	text	How nature points up the folly of man
+212678	1106	text	Godzilla!
+216256	2105	text	History shows again and again
+218661	4167	text	How nature points up the folly of man
+223128	1215	text	Godzilla!

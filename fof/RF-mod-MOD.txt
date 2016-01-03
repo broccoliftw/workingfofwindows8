@@ -1,0 +1,51 @@
+RF-mod 4 for Frets On Fire 1.2.451
+
+Graphic mods included with RF-mod.
+
+These are just a number of useful graphic mods and you can further modify them.  You don't like orange?  Make it blue.  You don't like blue, make it pink.
+
+I personally use: Color Fret Orange, Folders FoZZ, Keys FoZZ, Notes FoZZ Spot, Phrases Random, and a custom BG Theme
+
+
+Color Fret Orange - Do you want your 5th fret orange?  Turn This on
+Color HOPO Blue - Changes the HOPO indicator color to Blue
+Color Spot Black - Changes the white spot on a note to black
+
+Credits Song - What song to play for the credits
+
+Flames Off - Turn off the hit flames
+Flames Progressive - Flame colors change with your multiplers
+Flames Size - Flames get bigger with your multipliers
+
+Folders FoF - The default FoF (ugly) briefcase Folders
+Folders FoZZ - The default RF-mod (awesome) guitar case folders
+
+Keys FoF - The default FoF (ugly) keyboard key notes
+Keys FoZZ - The default RF-mod (awesome) circle key thing
+Keys Noob - Minimalistic circle key
+Keys Raph - GH mod keys
+
+
+The notes either have a Dot, Spot, or Ring.  This is where the HOPO indicator will show up.  Either as a dot/bump on the top of the note, the normally white spot will turn to the HOPO color, or the normally black ring will turn to the HOPO color
+
+Notes FoF Dot - The default FoF flat notes with black spot and note colored HOPO bump
+Notes FoF Spot - The default FoF flat notes with a white spot and HOPO colored spot
+
+Notes Fozz Dot - The default RF-mod notes with white spot and raised HOPO colored bump
+Notes Fozz Spot - The default RF-mod notes with white spot and HOPO colored spot
+Notes Fozz Ring - The default RF-mod notes with white spot and HOPO colored ring
+
+Notes Noob Dot - Minimal notes with white spot and raised HOPO colored bump
+Notes Noob Spot - Minimal notes with white spot and HOPO colored spot
+Notes Noob Ring - Minimal notes with white spot and HOPO colored ring
+
+Notes Raph Dot - GH notes with white spot and raised HOPO colored bump
+Notes Raph Spot - GH notes with white spot and HOPO colored spot
+Notes Raph Ring - GH notes with white spot and HOPO colored ring
+
+Phrases Random - Set of random phrases you will see instead of 'Tuning Guitar...' and 'Chilling...'
+
+Theme Chilly - Default FoF Chilly Theme
+Theme FoF - Default FoF Theme (fixed)
+Theme GH - Raph's full GH Theme, with sounds, menus, cd's and cd cases
+Theme LightGraphics - Default FoF Light Theme

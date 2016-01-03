@@ -1,0 +1,39 @@
+# Lyrics script: Blur - Song 2
+# Scripted by YMS to fit to the version [FOF.Spain]amzg used
+14700	1400	text	Whoo hoo
+18400	1400	text	Whoo hoo
+22100	1400	text	Whoo hoo
+25800	1400	text	Whoo hoo
+29200	2100	text	I got my head checked
+32900	2200	text	By a jumbo jet
+36600	2200	text	It wasn't easy
+40400	2500	text	But nothing is
+43500	700	text	No
+44400	1200	text	Whoo hoo
+46100	1700	text	When I feel heavy metal
+48000	1200	text	Whoo hoo
+49700	1900	text	And I'm pins and I'm needles
+51800	1200	text	Whoo hoo
+53500	1900	text	Well I lie and I'm easy
+55900	1100	text	All of the time
+57200	1500	text	But I'm never sure
+58900	1800	text	Why I need you
+61600	2400	text	Pleased to meet you
+70000	2200	text	I got my head down
+73900	2100	text	When I was young
+77400	2300	text	It's not my problem
+81100	3700	text	It's not my problem
+84900	1600	text	Whoo hoo
+86800	1700	text	When I feel heavy metal
+88700	1200	text	Whoo hoo
+90500	1700	text	And I'm pins and I'm needles
+92400	1200	text	Whoo hoo
+94200	2200	text	Well I lie and I'm easy
+96500	1200	text	All of the time
+97900	1500	text	But I'm never sure
+99600	1800	text	Why I need you
+102400	2200	text	Pleased to meet you
+107200	1200	text	Yeah yeah
+110900	1200	text	Yeah yeah
+114600	1200	text	Yeah yeah
+118300	1100	text	Oh yeah

@@ -1,0 +1,71 @@
+# [ar:Freezepop]
+# [ti:Get Ready 2 Rokk]
+# [by:LRC2FOF]
+# [Encoding:iso-8859-15]
+# 
+12520	1380	text	hey, pretty boy, 
+14000	960	text	it's time to wake up
+15060	1170	text	it's already
+16330	1070	text	after 10 o'clock
+17500	1400	text	hey pretty boy, 
+19000	1410	text	put on your make-up
+20510	1450	text	it's time to leave, 
+22060	4640	text	it's time to get ready to rock
+27500	930	text	hey, pretty boy, 
+28530	1370	text	find something to wear
+30000	1400	text	there's a party
+31500	930	text	up and down the block
+32530	1520	text	hey, pretty boy, 
+34150	1050	text	put some gel in your hair
+35300	1010	text	it's time to leave, 
+36410	4780	text	it's time to get ready to rock
+42790	980	text	i try to wait
+43780	1180	text	and i try to be good,
+45060	1430	text	i try to be 
+46590	1260	text	patient, i know i should
+47950	1010	text	i can't be held back
+49060	1100	text	when the streets call my name
+50260	1450	text	i'm all dressed in black 
+51810	1100	text	and i'm feeling no shame
+53010	10000	text	it's time for me to rock.
+76910	1010	text	hey, pretty boy, 
+78020	1650	text	put on a pouty face
+79770	1340	text	i'm down the stairs 
+81210	900	text	i've got the door unlocked
+82120	880	text	hey, pretty boy, 
+83010	1700	text	I want to leave this place
+84810	1590	text	it's time to leave, 
+86500	4900	text	it's time to get ready to rock
+92200	960	text	hey, pretty boy, 
+93260	1370	text	i can't wait no more
+94730	1140	text	it shouldn't come 
+95970	1260	text	as such a shock
+97330	910	text	hey, pretty boy, 
+98340	1590	text	i'm out the door
+100030	1180	text	it's time to leave, 
+101310	5160	text	it's time to get ready to rock
+107270	720	text	i try to wait
+108000	1400	text	and i try to be good,
+109500	1250	text	i try to be 
+110850	1040	text	patient, i know i should
+111990	1280	text	i can't be held back
+113370	1340	text	when the streets call my name
+114810	1340	text	i'm all dressed in black 
+116250	1740	text	and i'm feeling no shame
+118090	10000	text	it's time for me to rock.
+141020	1460	text	hey, pretty boy, 
+142580	1130	text	it's time to wake up
+143810	950	text	it's already 
+144770	1240	text	after 10 o'clock
+146110	1510	text	hey pretty boy, 
+147720	1390	text	put on your make-up
+149210	1150	text	it's time to leave,
+150460	1020	text	 it's time to get ready to rock
+151580	1360	text	hey, pretty boy, 
+153040	850	text	i can't wait no more
+153900	980	text	it shouldn't come 
+154980	1710	text	as such a shock
+156790	1280	text	hey, pretty boy, 
+158170	970	text	i'm out the door
+159240	1080	text	it's time to leave, 
+160420	4000	text	it's time to get ready to rock

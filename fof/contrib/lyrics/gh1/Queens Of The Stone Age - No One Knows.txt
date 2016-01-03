@@ -1,0 +1,31 @@
+# Lyrics script: Queens Of The Stone Age - No One Knows
+# Converted by YMS using LRC2FOF to fit the Guitar Hero I version
+16900	5800	text	We get some rules to follow
+23500	5700	text	That and this, these and those
+31500	2980	text	No one knows
+39700	5500	text	We get these pills to swallow
+45700	6200	text	How they stick in your throat
+54100	2810	text	Taste like old
+60300	3230	text	Oh what you do to me
+65500	2980	text	No one knows
+72100	5600	text	And I realize you're mine
+77700	5400	text	Indeed a fool am I
+83700	4700	text	And I realize you're mine
+88700	8900	text	Indeed a fool am I
+101700	5700	text	I journey through the desert
+107900	6000	text	Of the mind with no hope
+116500	2980	text	I follow
+124700	5300	text	I drift along the ocean
+130900	5400	text	Dead lifeboat in the sun
+139100	2890	text	And come undone
+145300	2870	text	Pleasantly caving in
+150300	2830	text	I come undone
+157300	5400	text	And I realize you're mine
+162700	6000	text	Indeed a fool am I
+168700	5800	text	And I realize you're mine
+174500	9800	text	Indeed a fool am I
+225700	4400	text	Heaven smiles above me
+231500	5900	text	What a gift here below
+239500	3420	text	But no one knows
+245700	3270	text	The gift that you give to me
+251100	2860	text	No one knows

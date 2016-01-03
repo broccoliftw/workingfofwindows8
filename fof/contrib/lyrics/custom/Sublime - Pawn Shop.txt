@@ -1,0 +1,44 @@
+# Lyrics script: Sublime - Pawn Shop
+# Scripted by YMS using LRC2FOF to fit the version Mamitose used
+73970	2700	text	Down there at the pawn shop
+78380	2250	text	It's the only way to shop
+80830	2540	text	Down there at the pawn shop
+85320	1850	text	If it's not in stone
+87270	2700	text	Down there at the pawn shop
+91680	2500	text	At no end, no way to shop
+94380	2710	text	Down there at the pawn shop
+101640	2060	text	What has been told
+104550	1610	text	Albino made of stone
+108460	2510	text	Just remember that it's flesh and bone
+161990	3250	text	So, why I'm down here at the pawn shop
+169700	2600	text	Down here at the pawn shop
+176500	2610	text	Down here at the pawn shop
+183110	2760	text	Down here at the pawn shop
+190680	1630	text	What has been sold
+193520	1850	text	Not strictly made of stone
+197530	2550	text	Just remember that it's flesh and bone
+203990	1310	text	And I have heard
+207200	2960	text	Like dike-a-bird, yeah
+210560	2950	text	But just remember that it's flesh and bone
+214660	3610	text	So, why I'm down here at the pawn shop
+222770	2710	text	Down here at the pawn shop
+264010	730	text	Go!
+267330	770	text	Right!
+270280	4110	text	Huh, that's right!
+275190	2600	text	Down here at the pawn shop
+279690	1810	text	It's a nifty way to shop
+281600	2700	text	Down here at the pawn shop
+286000	2010	text	It's another sold
+288210	2650	text	Down here at the pawn shop
+292460	2560	text	It's a nifty way to shop
+295220	2200	text	Down here at the pawn shop
+302180	1750	text	What has been sold
+305130	2100	text	Not strictly made of stone
+308980	2350	text	Just remember that it's flesh and bone
+315140	1880	text	What has been sold
+318530	1690	text	Not strictly sold
+321780	2900	text	Please remember that it's flesh and bone
+327420	2300	text	Down here at the pawn shop
+333780	2600	text	Down here at the pawn shop
+340590	2550	text	Down here at the pawn shop
+347150	3500	text	Down here at the pawn shop

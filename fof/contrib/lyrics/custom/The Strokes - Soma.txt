@@ -1,0 +1,25 @@
+# Lyrics script: The Strokes - Soma
+# Scripted by YMS using LRC2FOF to fit the version sushi111 used
+23540	2760	text	Talk to me now I'm older
+26700	3010	text	Your friend told you 'cause I told her
+30110	2800	text	Friday nights have been lonely
+33310	2750	text	Change your plans and then phone me
+50140	2600	text	We could go and get 40s
+53140	2860	text	Fuck goin' to that party
+56400	2910	text	Oh really, your folks are away now?
+59710	3100	text	Alright, let's go, you convinced me
+76530	4860	text	12:51 is the time my voice
+82190	2810	text	Found the words I sought
+85400	3000	text	Is it this stage I want?
+89250	4730	text	The world is shutting out for us
+95580	2700	text	We were tense for sure
+98680	3560	text	But we was confident
+103040	2620	text	Kiss me now that I'm older
+106060	2960	text	I won't try to control you
+109420	2910	text	Friday nights have been lonely
+112730	2900	text	Take it slow, but don't warn me
+116030	3050	text	We'd go out and get 40s
+119480	2810	text	Then we'd go to some party
+122690	2850	text	Oh really, your folks are away now?
+125940	1760	text	Alright, I'm coming
+128500	2610	text	I'll be right there

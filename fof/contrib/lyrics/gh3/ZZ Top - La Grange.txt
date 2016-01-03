@@ -1,0 +1,19 @@
+# Lyrics script: ZZ Top - La Grange
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+10750	1980	text	Rumour sprendin' a-'round
+13030	3370	text	In that Texas town
+17700	3760	text	'bout that shack outside La Grange
+21760	1690	text	And you know what I'm talkin' about
+23750	3760	text	Just let me know if you wanna go
+28710	4660	text	To that home out on the range
+33670	1940	text	They gotta lotta nice girls, ha
+40490	880	text	Have mercy
+44710	2890	text	A haw, haw, haw, haw, a haw
+47900	1500	text	A haw, haw, haw
+49700	4000	text	Well, I hear it's fine if you got the time
+56460	3420	text	And the ten to get yourself in
+60180	1050	text	A hmm, hmm
+61530	5700	text	And I hear it's tight most ev'ry night
+68230	3800	text	But now I might be mistaken
+72330	2140	text	A hmm, hmm, hmm, hmm
+74770	1660	text	Have mercy

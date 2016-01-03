@@ -1,0 +1,53 @@
+# Lyrics script: Joan Jett & The Blackhearts - I Love Rock'n'Roll
+# Scripted by YMS to fit the Guitar Hero I version
+18700	4800	text	I saw him dancin' there by the record machine
+23400	3700	text	I knew he musta been about seventeen
+28500	2000	text	The beat was goin' strong
+31100	3300	text	Playin' my favorite song
+34500	2300	text	An' I could tell it wouldn't be long
+36800	2800	text	Till he was with me, yeah me
+39700	2200	text	An' I could tell it wouldn't be long
+41900	3300	text	Till he was with me, yeah me, singin'
+45200	2300	text	I love rock n' roll
+47700	2300	text	So put another dime in the jukebox, baby
+50300	2200	text	I love rock n' roll
+52800	2800	text	So come an' take your time an' dance with me
+59700	3700	text	He smiled, so I got up an' asked for his name
+64800	1500	text	That don't matter, he said
+66400	1800	text	Cause it's all the same
+69700	2200	text	Said can I take you home
+72100	3300	text	Where we can be alone
+76000	1800	text	An' next we were movin' on
+78200	2600	text	He was with me, yeah me
+81400	1800	text	Next we were movin' on
+83500	3100	text	He was with me, yeah me, singin'
+86600	2200	text	I love Rock'n'Roll
+89100	2300	text	So put another dime in the jukebox, baby
+91700	2200	text	I love Rock'n'Roll
+94200	2500	text	So come an' take your time an' dance with me
+111100	2300	text	Said can I take you home
+113500	2800	text	Where we can be alone
+117400	2000	text	An' next be movin' on
+119500	2300	text	Till he was with me, yeah me
+122300	1500	text	An' we'll be movin' on
+123900	2300	text	An' singin' that same old song
+127400	2800	text	Singin' I love Rock'n'Roll
+130600	2300	text	So put another dime in the jukebox, baby
+133100	2200	text	I love Rock'n'Roll
+135600	2300	text	So come an' take your time an' dance with me
+138300	2200	text	I love Rock'n'Roll
+140800	2300	text	So put another dime in the jukebox, baby
+143400	2200	text	I love Rock'n'Roll
+145700	2000	text	So come an' take your time an' dance with me
+147800	2200	text	I love Rock'n'Roll
+150200	2300	text	So put another dime in the jukebox, baby
+152800	2200	text	I love Rock'n'Roll
+155400	1700	text	So come an' take your time an' dance with me
+157100	2200	text	I love Rock'n'Roll
+159300	2500	text	So put another dime in the jukebox, baby
+162200	1800	text	I love Rock'n'Roll
+164200	2200	text	So come an' take your time an' dance with me
+166400	2000	text	I love Rock'n'Roll
+168500	2500	text	So put another dime in the jukebox, baby
+171200	2200	text	I love Rock'n'Roll
+173700	2200	text	So come an' take your time an' dance with me

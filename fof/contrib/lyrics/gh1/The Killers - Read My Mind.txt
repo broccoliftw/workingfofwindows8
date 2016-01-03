@@ -1,0 +1,49 @@
+# Lyrics script: The Killers - Read My Mind
+# Scripted by YMS using LRC2FOF to fit the version Recon Studios / Recon212 used
+15100	3050	text	On the corner of main street
+18550	3160	text	Just tryin' to keep it in line
+22110	3150	text	You say you wanna move on and
+25660	2160	text	You say I'm falling behind
+28020	3300	text	Can you read my mind?
+35220	3760	text	Can you read my mind?
+43940	3400	text	I never really gave up on
+47740	2960	text	Breakin' out of this two-star town
+51100	1550	text	I got the green light
+52750	1850	text	I got a little fight
+54700	2060	text	I'm gonna turn this thing around
+56960	3350	text	Can you read my mind?
+64110	3810	text	Can you read my mind?
+71720	3060	text	The good old days, the honest man
+75180	3210	text	The restless heart, the promised land
+78790	3150	text	A subtle kiss that no one sees
+82340	2850	text	A broken wrist and a big trapeze
+85590	3410	text	Oh well, I don't mind if you don't mind
+89800	3050	text	'Cause I don't shine if you don't shine
+93250	4610	text	Before you go, can you read my mind?
+102010	3260	text	It's funny how you just break down
+105670	2500	text	Waiting on some sign
+108370	3610	text	I pull up to the front of your driveway
+112780	2050	text	With magic soaking my spine
+115030	3500	text	Can you read my mind?
+122090	3860	text	Can you read my mind?
+129700	3110	text	The teenage queen, the loaded gun
+133210	3150	text	The drop dead dream, the chosen one
+136760	3300	text	A southern drawl, the world unseen
+140460	2860	text	A city wall and a trampoline
+143720	3550	text	Oh well, I don't mind if you don't mind
+147670	3360	text	'Cause I don't shine if you don't shine
+151430	2760	text	Before you jump
+154590	3100	text	Tell me what you find
+158090	3910	text	When you read my mind
+178190	3550	text	Slipping in my faith until I fall
+182140	2860	text	You never returned that call
+185400	3310	text	Woman, open the door, don't let it sting
+189110	2860	text	I wanna breathe that fire again
+192370	3250	text	She said I don't mind if you don't mind
+196420	3300	text	Because I don't shine if you don't shine
+200120	1060	text	Put your back on me
+201730	1300	text	Put your back on me
+203480	2660	text	Put your back on me
+216400	2650	text	The stars are blazing like rebel diamonds
+219450	2350	text	Cut out of the sun
+222000	3410	text	Can you read my mind?

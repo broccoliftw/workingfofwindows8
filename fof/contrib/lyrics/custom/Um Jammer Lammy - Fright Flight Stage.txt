@@ -1,0 +1,52 @@
+# Lyrics script: Fright Flight Stage - Um Jammer Lammy
+# Lyrics from a movie on youtube
+# Scripted by Davie
+14310    690 text Look up in the sky, 
+15000    680 text gimme all you got!  
+15680   1320 text Never give it up, soldier!   
+19800    700 text Get up in the morn, 
+20500    680 text Run around the track! 
+21180   1300 text Show me what you got, soldier! 
+25250   2500 text Did I eat my drink??
+30750   2665 text I thought milk was pink??
+36250   1560 text Auto pilot on, auto pilot off!
+41580   1420 text Little bit of this, little bit of that!
+46890   1930 text How do you like munchies?
+49500   2000 text I wonder where lunch is??
+52480   1645 text 1 2, 3 4, 5 6!
+55250   1750 text Always give it your best!
+58000   1460 text My knee's in pain
+60560   1690 text So is my brain
+63380    710 text Look up in the sky, 
+64090    660 text Gimme all you got! 
+64750   1310 text Never give it up, soldier!
+68910    700 text Get up in the morn,
+69610    640 text Run around the track!
+70250   1560 text Show me what you got, soldier!
+74510   2490 text I thought I just made some coffee for me
+79750   2750 text I want some apples and berries to eat
+85300   2700 text Now it's time to move on!
+88000   2180 text It only gets much harder so carry on!
+96150   2730 text You think I'm old now,
+98880   1660 text I got the skills to beat you
+100540  2665 text and knock you out!
+107060  1320 text My knee's in pain
+109680  1920 text So is my brain
+112500  1500 text Throttle up, flaps down!
+115310  1380 text Power up, gears down!
+118120  1820 text I'm getting sleepy...
+121000  1380 text I want my sheets
+123410  1530 text Auto pilot on, auto pilot off!
+126120  1490 text Little bit of this, little bit of that!
+128690  1810 text How do you like munchies?
+131380  1800 text I wonder where lunch is?
+134320  1680 text 1 2, 3 4, 5 6!
+137070  1620 text Always give it your best!
+140050  2700 text In the old days I was a hero but
+142750  1500 text look at me, I'm learning just how to fly
+150790  2830 text I'm still wondering, when we get to rest,
+153620  2830 text I'm hungry, I'm sleepy don't wanna die
+163840  2110 text That was gooder than good!
+165950  1490 text Congratulations!!
+167440  1760 text Thank you!! I'm in a hurry!
+169200   900 text Need to move on!

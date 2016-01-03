@@ -1,0 +1,23 @@
+# Lyrics script: Black Sabbath - Iron Man
+# Scripted by YMS to fit the Guitar Hero I version
+10000 5000 text I am Iron Man!
+41000 3000 text Has he lost his mind
+44000 3000 text Can he see or is he blind
+47000 3500 text Can he walk at all
+50500 3000 text Or if he moves will he fall
+60000 3500 text Is he alive or dead
+63500 3000 text Has he thoughts within his head
+66500 4000 text We'll just pass him there
+70500 3000 text Why should we even care
+104500 3000 text He was turned to steel
+107500 3000 text In the great magnetic field
+110500 3500 text When he travelled time
+114000 3000 text For the future of mankind
+118500 2000 text Nobody wants him
+121500 2500 text He just stares at the world
+130500 2000 text Planning his vengeance
+133500 3000 text That he will soon unfurl
+193500 3000 text Heavy boots of lead
+196500 3000 text Fills his victims full of dread
+199500 3000 text Running as fast as they can
+202500 6500 text Iron Man lives again

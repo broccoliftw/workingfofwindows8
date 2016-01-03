@@ -1,0 +1,39 @@
+# Lyrics script: The Hives - Hate To Say I Told You So
+# Scripted by YMS using LRC2FOF to fit the version shawnoftheedead used
+35510	2660	text	Do what I want cause I can and if I don't
+38370	1200	text	Because I wanna
+42920	2400	text	Be ignored by the stiff and the bored
+45520	1060	text	Because I'm gonna
+49530	2600	text	Spit and retrieve cause I give and receive
+52530	1260	text	Because I wanna
+56090	1850	text	Gonna get through your head
+58040	1400	text	What the mystery man said
+59540	1310	text	Because I'm gonna
+64100	2760	text	Hate to say I told you so
+70030	1000	text	Come on
+74820	4350	text	I do believe I told you so
+79970	2510	text	Now it's all out and you knew
+83720	2100	text	Cause I wanted to
+88430	1100	text	Turn my back on the rot
+89630	1950	text	That's been planning the plot
+91780	1000	text	Because I'm gonna
+95440	3110	text	No need for me to wait
+98950	1140	text	Because I wanna
+102800	2760	text	No need, two, three and too late
+105960	1300	text	Because I'm gonna
+110570	2650	text	Hate to say I told you so
+116810	790	text	Come on
+121180	4960	text	I do believe I told you so
+142170	950	text	Do what I please
+143220	1660	text	Gonna spread the disease
+144980	990	text	Because I wanna
+148680	1090	text	Gonna call all the shots
+149870	1700	text	For the "No"s and the "Not"s
+151670	1160	text	Because I wanna
+162940	790	text	Ask me once
+163740	1970	text	I'll answer twice cause what I know I'll tell
+165910	1210	text	Because I wanna
+170020	1450	text	Sound device and lots of ice
+171570	1050	text	I'll spell my name out loud
+172720	1540	text	Because I wanna
+176330	1700	text	Oh yeah

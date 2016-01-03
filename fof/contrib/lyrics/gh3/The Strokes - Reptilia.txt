@@ -1,0 +1,36 @@
+# Lyrics script: The Strokes - Reptilia
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero III version
+40060	4520	text	He seemed impressed by the way you came in
+45380	2550	text	"Tell us a story
+48130	2740	text	I know you're not boring"
+52130	4750	text	I was afraid that you would not insist
+57680	2550	text	"You sound so sleepy
+60430	2400	text	Just take this, now leave me"
+63030	2150	text	I said please don't slow me down
+65380	3410	text	Oh, if I'm going too fast
+69590	4710	text	You're in a strange part of our town
+87940	2860	text	Yeah, the night's not over
+91200	3210	text	You're not trying hard enough
+95210	2790	text	Our lives are changing lanes
+98200	2720	text	You ran me off the road
+101320	1900	text	The wait is over
+103420	2500	text	I'm now taking over
+106120	2910	text	You're no longer laughing
+109430	3100	text	I'm not drowning fast enough
+137410	4310	text	Now every time that I look at myself
+142520	2600	text	"I thought I told you
+145320	2760	text	This world is not for you"
+149120	4910	text	The room is on fire as she's fixing her hair
+154830	2320	text	"You sound so angry
+157350	2640	text	Just calm down, you found me"
+160190	2410	text	I said please don't slow me down
+162800	3350	text	If I'm going too fast
+166550	5010	text	You're in a strange part of our town
+185070	2910	text	Yeah, the night's not over
+188380	3210	text	You're not trying hard enough
+192390	2750	text	Our lives are changing lanes
+195340	2850	text	You ran me off the road
+198590	1860	text	The wait is over
+200550	2550	text	I'm now taking over
+203300	2750	text	You're no longer laughing
+206450	3360	text	I'm not drowning fast enough

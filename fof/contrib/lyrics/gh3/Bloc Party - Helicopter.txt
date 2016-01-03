@@ -1,0 +1,49 @@
+# Lyrics script: Bloc Party - Helicopter
+# Scripted by YMS using LRC2FOF to fit the Guitar Hero III version
+27340	1000	text	North to south
+30290	790	text	Empty
+32990	1050	text	Running on
+35490	1110	text	Bravado
+36900	1860	text	As if to say, as if to say
+39610	2450	text	As if to say, he doesn't like chocolate
+42260	2030	text	He's born a liar, he'll die a liar
+45530	2210	text	Some things will never be different
+50050	5010	text	Stop being so american
+55860	3050	text	There's a time and there's a place
+60460	1150	text	So James Dean
+65370	740	text	So blue jeans
+66120	1150	text	Gonna save the world
+67370	900	text	He's gonna
+68280	1810	text	Are you hoping for a miracle?
+73700	2090	text	Are you hoping for a miracle?
+79350	4110	text	Are you hoping for a miracle?
+85060	2110	text	Are you hoping for a miracle?
+103230	1820	text	Three out of five, three out of five
+105250	880	text	It's not enough
+106140	1260	text	Six out of ten
+107500	1510	text	Better luck next time
+109110	1590	text	Just like his Dad, just like his Dad
+110800	950	text	The same mistakes
+111850	2400	text	Some things will never be different
+114450	1850	text	Hungry and dumb, hungry and dumb
+116400	960	text	So wait in line
+117460	2550	text	Queuing up for some more junk food
+120210	1850	text	It's not my fault, it's not my fault
+122260	900	text	Just this once
+123170	2350	text	They're getting so much younger
+127630	5050	text	Why can't you be more european
+133480	3100	text	Bastard child of guilt and shame
+138180	4520	text	Bury your head in the sand
+143500	1200	text	I'm thinking six, six, six
+144800	950	text	I'm thinking six
+145850	1830	text	Are you hoping for a miracle?
+151440	2200	text	Are you hoping for a miracle?
+157000	4360	text	Are you hoping for a miracle?
+162750	1960	text	Are you hoping for a miracle?
+190750	2570	text	Are you hoping for a miracle?
+193620	1400	text	It's not enough
+196520	2160	text	Are you hoping for a miracle?
+199380	1500	text	It's not enough
+202280	4510	text	Are you hoping for a miracle?
+207790	2410	text	Are you hoping for a miracle?
+210750	1350	text	It's not enough

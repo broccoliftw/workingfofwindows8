@@ -1,0 +1,35 @@
+# Lyrics script: Black Sabbath - Paranoid
+# Scripted by YMS to fit to the version Embutido and Sagoth (FOF.Spain) used
+12500	1900	text	Finished with my woman
+14500	2200	text	Cause she couldn't help me
+16900	1000	text	With my mind
+18300	2000	text	People think I'm insane
+20500	2100	text	Because I am frowning
+22800	1000	text	All the time
+35100	3200	text	All day long I think of things
+38500	1800	text	But nothing seems to
+40300	1000	text	Satisfy
+41800	1600	text	Think I'll lose my mind
+43500	2600	text	If I don't find something to
+46100	1000	text	Pacify
+48200	2200	text	Can you help me
+51100	3900	text	Occupy my brain?
+55100	2300	text	Oh yeah
+70400	3200	text	I need someone to show me
+73700	2000	text	The things in life that
+75800	1000	text	I can't find
+76900	2300	text	I can't see the things that
+79300	1800	text	Make true happiness
+81200	1600	text	I must be blind
+117400	3200	text	Make a joke and I will sigh
+120700	1900	text	And you will laugh and
+122700	1000	text	I will cry
+124100	2300	text	Happiness I can not feel
+126600	1900	text	And love to me is
+128600	1000	text	So unreal
+140900	3200	text	And so as you hear these words
+144200	1800	text	Telling you now
+146100	1100	text	Of my state
+147400	2700	text	I tell you to enjoy life
+150200	1900	text	I wish I could but
+152300	900	text	It's too late

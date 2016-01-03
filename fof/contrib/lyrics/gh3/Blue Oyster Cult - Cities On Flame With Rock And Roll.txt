@@ -1,0 +1,25 @@
+# Lyrics script: Blue Öyster Cult - Cities on Flame with Rock and Roll
+# Converted by YMS using LRC2FOF to fit the Guitar Hero III version
+24065	4100	text	My heart is black and my lips are cold
+29907	4000	text	Cities on flame with rock and roll
+35026	2427	text	Three thousand guitars
+37753	2430	text	They seem to cry
+40483	4000	text	My ears will melt and then my eyes
+46246	4000	text	Let the girl, let that girl rock and roll
+51253	4127	text	Cities on flame, now
+55680	2314	text	With rock and roll
+67558	4000	text	Gardens of Nocturne, forbidden delight
+72900	4000	text	Reins of steel and it's all right
+78235	4000	text	Cities on flame with rock and roll
+83792	4164	text	Marshall will buoy but Fender control
+88710	4000	text	So let the girl, let that girl rock and roll
+94250	3972	text	Cities on flame, now
+98522	2970	text	With rock and roll
+143164	4000	text	My heart is black and my lips are cold
+148825	4000	text	Cities on flame with rock and roll
+154048	2316	text	Three thousand guitars
+156664	2309	text	They seem to cry
+159273	4697	text	My ears will melt and then my eyes
+164718	4000	text	So let the girl, let that girl rock and roll
+170152	4067	text	Cities on flame, now
+174519	2646	text	With rock and roll

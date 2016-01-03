@@ -1,0 +1,38 @@
+# Lyrics script: Sublime - Smoke Two Joints
+# Scripted by YMS using LRC2FOF to fit the version devilfingers used
+0	1800	text	She was living in a single room
+2000	1330	text	With three other individuals
+3430	910	text	One of them was a male
+4350	940	text	And the other two
+5390	1850	text	Well, the other two were females
+7340	2150	text	God only knows what they were up to in there
+9690	1010	text	And furthermore, Susan
+10800	1500	text	I wouldn't be the least bit surprised
+12400	1200	text	To learn that all four of them
+13700	2300	text	Habitually smoke marijuana cigarettes
+17450	960	text	Reefers
+39880	2160	text	I smoke two joints in the morning
+42240	2200	text	I smoke two joints at night
+44640	2410	text	I smoke two joints in the afternoon
+47250	1910	text	It makes me feel alright
+49840	2510	text	I smoke two joints in time of peace
+52550	1660	text	And two in time of war
+54900	2360	text	I smoke two joints before I smoke two joints
+57460	1450	text	And then I smoke two more
+73030	2650	text	Smoked cigarettes 'til the day she died
+77940	2710	text	Toke a big spliff of some good sensimillia
+82840	2550	text	Smoked cigarettes 'til the day she died
+85590	1900	text	Toke a big spliff of some good sensamill
+87690	1910	text	"Easy-e, were ya ever caught slippin'?"
+89800	860	text	"Hell no!"
+90670	1410	text	Daddy, he once told me
+92180	2540	text	"Son, you be hard workin' man"
+95380	1850	text	And momma, she once told me
+97330	2390	text	"Son, you do the best you can"
+100390	2300	text	But, then one day I met a man
+102890	2600	text	Who came to me and said
+105690	1960	text	"Hard work good, and hard work fine
+107850	2900	text	But first take care of head"
+139710	4550	text	Whoa, rock me tonight
+145860	3260	text	Whoa-oh, jah sake
+149520	5260	text	Whoa-ohh

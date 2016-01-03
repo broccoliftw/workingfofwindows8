@@ -1,0 +1,41 @@
+# Lyrics script: The Strokes - You Only Live Once
+# Scripted by YMS using LRC2FOF to fit the version KERRO / winniez used
+22450	2420	text	Some people think they're always right
+26470	2050	text	Others are quiet and uptight
+30580	1850	text	Others they seem so very nice
+32630	1560	text	Nice, nice, nice, nice, oh oh
+34290	3360	text	Inside they might feel sad and wrong, oh no
+38450	2300	text	29 different attributes
+42610	3210	text	Only 7 that you like, uh oh
+46720	3100	text	20 ways to see the world, oh oh
+50620	3480	text	Or 20 ways to start a fight, oh oh
+55130	1050	text	Oh, don't, don't, don't
+56280	490	text	Get up
+60150	3450	text	I can't see the sunshine
+64000	3460	text	I'll be waiting for you, baby
+68960	2110	text	'Cause I'm through
+71270	1610	text	Sit me down
+75230	1800	text	Shut me up
+79040	2500	text	I'll calm down
+83840	2560	text	And I'll get along with you
+100310	2210	text	Oh, men don't notice what they got
+104070	2250	text	Oh, women think of that a lot
+108140	3310	text	1000 ways to please your man, oh oh
+112300	3570	text	Not even one requires a plan, I know
+116270	3100	text	Countless odd religions, too
+120230	3290	text	It doesn't matter which you choose, oh no
+124020	3060	text	One stubborn way to turn your back, uh oh
+128080	3450	text	And this I've tried, and now refuse, oh oh
+132490	1250	text	Oh, don't, don't, don't
+133840	490	text	Get up
+137740	3560	text	I can't see the sunshine
+141700	3370	text	I'll be waiting for you, baby
+146970	1600	text	'Cause I'm through
+148770	1550	text	Sit me down
+152880	1800	text	Shut me up
+156730	2500	text	I'll calm down
+161540	2350	text	And I'll get along with you
+165190	640	text	Alright
+166840	2160	text	Shut me up
+170690	3510	text	Shut me up, up, up, up, up
+175550	3710	text	And I'll get along with you

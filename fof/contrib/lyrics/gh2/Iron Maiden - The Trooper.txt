@@ -1,0 +1,33 @@
+# Lyrics script: Iron Maiden - The Trooper
+# Scripted by YMS to fit the Guitar Hero II version
+39000	1000	text	You'll take my life
+40100	1500	text	But I'll take yours too
+41700	2900	text	You'll fire your musket, but I'll run you through
+44700	2900	text	So when you're waiting for the next attack
+47700	3000	text	You'd better stand there's no turning back
+50800	2900	text	The Bugle sounds, the charge begins
+53700	3000	text	But on this battlefield no one wins
+56800	3000	text	The smell of acrid smoke and horses breath
+59900	2700	text	As I plunge on into certain death
+62900	4500	text	Oooooooohh!
+68000	5500	text	Oooooooohh!
+98300	3300	text	The horse, he sweats, with fear we break to run
+101700	2900	text	The mighty roar of the Russian guns
+104600	3100	text	And as we race towards the human wall
+108100	2700	text	The screams of pain as my comrades fall
+111100	2500	text	We hurdle bodies that lay on the ground
+113700	2900	text	And the Russians fire another round
+117000	2600	text	We get so near, yet so far away
+120000	2500	text	We won't live to fight another day
+122600	4400	text	Oooooooohh!
+127600	5300	text	Oooooooohh!
+205100	3100	text	We get so close, near enough to fight
+208300	2900	text	When a Russian gets me in his sights
+211300	3100	text	He pulls the trigger and I feel the blow
+214000	2000	text	A burst of rounds take my horse below
+216000	3100	text	And as I lay there gazing at the sky
+219700	2600	text	My body's numb and my throat is dry
+223000	2500	text	And as I lay forgotten and alone
+225200	2800	text	Without a tear I draw my parting groan
+228100	4500	text	Oooooooohh!
+233000	5300	text	Oooooooohh!

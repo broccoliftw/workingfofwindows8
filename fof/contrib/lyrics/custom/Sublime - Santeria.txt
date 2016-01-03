@@ -1,0 +1,42 @@
+# Lyrics script: Sublime - Santeria
+# Scripted by YMS using LRC2FOF to fit the version winniez used
+12380	2600	text	I don't practice Santeria
+15180	2600	text	I ain't got no crystal ball
+17980	2410	text	Well, I had a million dollars
+20590	2600	text	But I, I'd spend it all
+23590	2110	text	If I could find that heina
+25900	2500	text	And that sancho that she'd found
+28600	2500	text	Well, I'd pop a cap in sancho
+31300	3540	text	And I'd slap her down
+35240	4310	text	What I really wanna know, my baby
+40350	4520	text	What I really wanna say, I can't define
+45670	3370	text	Well, it's love that I need
+51100	3450	text	My soul will have to wait till I get back
+54950	2700	text	Find a heina of my own
+58050	3460	text	Daddy's gonna love one and all
+63170	3450	text	I feel the break, feel the break, feel the break
+67020	2460	text	And I gotta live it out
+69680	2640	text	Oh, yeah, uh-huh
+72520	2010	text	Well, I swear that I...
+74730	4750	text	What I really wanna know, my baby
+80280	4210	text	What I really wanna say, I can't define
+85290	1410	text	Got love
+86800	2620	text	Make it go
+91000	1610	text	My soul will have to...
+114740	4450	text	What I really wanna say, my baby
+119990	4520	text	What I really wanna say, is I've got mine
+125310	1140	text	And I'll make it
+126550	2700	text	Yes, I'm going up
+130210	2480	text	Tell sanchito that if he knows
+132890	1810	text	What is good for him
+134800	2610	text	He best go run and hide
+137610	2920	text	Daddy's got a new .45
+142580	1800	text	And I won't think twice
+144480	2750	text	To stick that barrel straight down sancho's throat
+147630	2710	text	Believe me when I say
+150540	2850	text	That I got something for his punk-ass
+153790	4760	text	What I really wanna know, my baby
+159350	2760	text	What I really wanna say
+162310	3550	text	Is there's just one way back
+166260	2790	text	And I'll make it, yeah
+170020	5110	text	My soul will have to wait, yeah

@@ -1,0 +1,38 @@
+# [ar:Burning Brides]
+# [ti:Heart Full Of Black]
+# [by:LRC2FOF]
+# 
+26340	2910	text	You take me right up to the top of the world 
+29650	2860	text	Then you push me over the side 
+32910	2780	text	Like an addiction to a four-letter word 
+36090	2980	text	Victim of the Western decline 
+39470	2850	text	I made a promise by the side of the road 
+42720	4300	text	That I would bury my Goddamn halo... 
+47820	3040	text	I got a heart with a black lining 
+51260	2820	text	I got a heart full of black 
+54480	2850	text	I got a heart with a black lining 
+57730	6240	text	I got a heart full of black 
+65570	3160	text	I'm trying to fight it but I don't know what for
+69130	2910	text	There was something holding me back 
+72440	2790	text	I need to fight it more than ever before 
+75630	2920	text	Now I'm ready for the attack 
+78950	3030	text	I'll never be like what I wanna become 
+82380	4020	text	As long as you got a piece of the action 
+87200	2990	text	I got a heart with a black lining 
+90590	2850	text	I got a heart full of black
+93840	2980	text	I got a heart with a black lining 
+97220	9340	text	I got a heart full of black
+111560	2850	text	Show me, Show me
+114810	2790	text	Show me, Show me
+118000	3160	text	Show me, Show me
+121560	5180	text	Show me, Show me
+131740	2780	text	This doesn't happen to me everyday 
+134920	2850	text	I was feeling freer than life 
+138170	2850	text	I wouldn't have it any other way 
+141420	2980	text	Wanna feel like this all the time 
+144800	3290	text	You like to walk along the rocks on the tracks
+148490	4140	text	So I decided to take my love back 
+153430	2610	text	I got a heart with a black lining 
+156440	2840	text	I got a heart full of black
+159680	2920	text	I got a heart with a black lining 
+163000	4000	text	I got a heart full of black

@@ -1,0 +1,101 @@
+RF-mod 4 for Frets On Fire 1.2.451
+
+To play multiplayer head to head:
+
+1) Set up player 1 and player 2's keys in Settings->Key Settings
+2) Go to Settings->RFmod Settings->Game Settings
+3) Change players to 2
+4) When you select a song and difficulty, then it will ask for player 2's part and difficulty
+5) If you dont want a player 2 just select no player 2.
+
+To play multiplayer party mode:
+1) Set up player 1 and player 2's keys in Settings->Key Settings
+2) Go to Settings->RFmod Settings->Game Settings
+3) Change players to 2
+4) When you select a song and difficulty, then it will ask for player 2's setings and you choose 'Party Mode'
+5) If you dont want a player 2 just select no player 2.
+
+To move your song directory to another location:
+
+1) Move your 'songs' directory (Frets On Fire\data\songs) to a new location (eg. D:\Games\Fof-songs)
+2) Add a base_library = X:\path in the [game] section of your fretsonfire.ini
+3) Make sure the original song directory is not there
+
+To start a song directly from the command line:
+
+1) Go to your frets on fire directory
+2) type fretsonfire.exe -p songdirectoryunderlibrary 
+
+( For example: fretsonfire.exe -p Artists\ACDC\ACDC - TNT )
+
+To create midi files with multiple selectable tracks:
+
+You will need to name your tracks with some specific names.  You can read about it in this thread
+http://www.scorehero.com/forum/viewtopic.php?t=1179
+
+Simply just have the sequence name of the track be one of these things:
+PART GUITAR      - Lead/single player/combo guitar
+PART GUITAR COOP - Lead guitar for two player (no rhythm/bass)
+PART RHYTHM      - Rhythm guitar for two player (no lead/bass)
+PART BASS        - Bass guitar for two player (no lead/rhythm)
+
+With this naming you can have each part selectable when someone starts a song.
+Generally today everything (except GHII) is just PART GUITAR.  This is a combination of lead guitar, rhythm, and bass.  Basically whatever the author feels like having you play in the song.  There is no real distinction between what type of guitar is playing.
+
+The PART GUITAR COOP, PART RHYTHM, and PART BASS are much more specific to those instruments.  The PART GUITAR COOP should only have lead guitar notes in it, leaving the PART BASS and PART RHYTHM with the notes from those instruments.  This means that each one of these parts may have lots of gaps in them (because the other part is playing) but that's often what is desired once two player starts working.
+
+For use with lyrics:
+
+In order to have lyrics for a certain song you need a lyric file. (In contrib directory).  The file must be renamed to script.txt, and you must add a line to the song.ini that says lyrics = True.
+After that the lyrics will be displayed along with a song.
+
+
+For use with Theme Mods:
+
+note.dae can contain several meshes for different parts of the note.
+
+Mesh_001 - Main note (fret color)
+Mesh_002 - Top spot (white)
+Mesh_003 - HOPO indicator (cyan)
+Mesh     - Decoration ring (black)
+
+There are some theme.ini variables which can affect the coloring of a note.  Each of these variables can contain a color (#123456), or the word Fret (Fret) which makes it the same color as the fret
+spot_color = Mesh_002
+hopo_color = Mesh_003
+There are examples of this in the mod directory in "Color HOPO Cyan", "Color Spot Black" and "Notes FoF"
+
+key.dae can contain several meshes which affect how the fret is displayed.  Each of these variables can contain a color (#123456), or the word Fret (Fret) which makes it the same color as the fret
+
+Mesh     - Main fret (fret color)
+Key_001  - Top of fret (dark grey)
+Key_002  - Bottom of fret (black)
+Glow_001 - Only rendered with note hit along with glow.svg
+
+There are some theme.ini variables which can affect the coloring of a fret.  Each of these variables can contain a color (#123456), or the word Fret (Fret) which makes it the same color as the fret
+key_color  = Key_001
+key2_color = Key_002
+There are examples of these in the mod directory in "Theme GH"
+
+
+There are some theme.ini variables which can affect the coloring of the tracks and bars on the neck.  Each of these variables can contain a color (#123456), or the word off (off) which turns them off all together
+tracks_color = 
+bars_color = 
+
+
+There are some theme.ini variables which can affect the coloring of the hit flames.  Each of these variables can contain a color (#123456)
+flames0_1X_color = color for the flame on fret0, during 1X multipliers
+flames1_1X_color = color for the flame on fret1, during 1X multipliers
+...
+flames4_4X_color = color for the flame on fret4, during 4X multipliers
+
+There are frets 0-4, and multipliers 1-4 giving a total of 20 individual variables
+There are examples in the mod directory in "Flames Progressive"
+
+There are some theme.ini variables which can affect the size of the hit flames.  The default is .075.  Larger values make them larger, smaller values make them smaller
+flames0_1X_color = size for the flame on fret0, during 1X multipliers
+flames1_1X_color = size for the flame on fret1, during 1X multipliers
+...
+flames4_4X_color = size for the flame on fret4, during 4X multipliers
+
+There are frets 0-4, and multipliers 1-4 giving a total of 20 individual variables
+There are examples in the mod directory in "Flames Size"

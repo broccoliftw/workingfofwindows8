@@ -1,0 +1,53 @@
+# Lyrics script: Danzig - Mother
+# Scripted by YMS to fit the Guitar Hero II version
+18500	2000	text	Mother
+21000	3000	text	Tell your children not to walk my way
+24500	2500	text	Tell your children not to hear my words
+27000	1000	text	What they mean
+28000	1000	text	What they say
+29500	2000	text	Mother
+33000	2000	text	Mother
+35000	3000	text	Can you keep 'em in the dark for life
+39000	3000	text	Can you hide 'em from the waiting world
+42000	2000	text	Wo-oh
+44000	2000	text	Mother
+47000	2000	text	Father
+50000	2000	text	Gonna take you daughter out tonight
+53000	3000	text	Gonna show her my world
+57000	1000	text	Wo-oh
+58000	3000	text	Father
+61000	4000	text	Not about to see your light
+66000	2000	text	And if you wanna find hell with me
+69000	3000	text	I can show you what it's like
+72000	3000	text	Till you're bleeding
+75000	3000	text	Not about to see your light
+79000	3000	text	And if you wanna find hell with me
+82000	2000	text	I can show you what it's...
+87000	2000	text	Mother
+89000	2000	text	Tell your children not to hold my hand
+92000	3000	text	Tell your children not to understand
+96000	1000	text	Wo-oh
+97000	2000	text	Mother
+100000	2000	text	Father
+102000	3000	text	Do you wanna bang heads with me
+106000	2000	text	Do you wanna feel everything
+109000	1000	text	Wo-oh
+110000	2000	text	Father
+114000	3000	text	Not about to see your light
+118000	2000	text	And if you wanna find hell with me
+120000	3000	text	I can show you what it's like
+124000	2000	text	Till you're bleeding
+127000	3000	text	Not about to see your light
+130000	3000	text	And if you wanna find hell with me
+133000	5000	text	I can show you what it's...
+138000	1000	text	Yeah
+154000	3000	text	Not about to see your light
+157000	3000	text	And if you wanna find hell with me
+160000	3000	text	I can show you what it's like
+164000	2000	text	Till you're bleeding
+166000	3000	text	Not about to see your light
+169000	3000	text	And if you wanna find hell with me
+173000	6000	text	I can show you what it's like
+185000	5000	text	Woh
+191000	4000	text	Wo-oh
+196000	2000	text	Yeah

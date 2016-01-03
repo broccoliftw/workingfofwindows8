@@ -1,0 +1,40 @@
+# Lyrics script: Asia - Heat of the Moment
+# Scripted by V4Vendetta for Rock the 80s Encore
+13800  4000 text I never meant to be so bad to you
+18400  5000 text One thing I said that I would never do
+23700  4700 text A look from you and I would fall from grace
+28600  5000 text & that would wipe this smile right from my face
+35100  3500 text Do you remember when we used to dance
+39300  4000 text And incidence arose from circumstance
+44100  4000 text One thing lead to another we were young
+49300  5500 text And we would scream together songs unsung
+55000  3400 text It was the heat of the moment
+58500  3700 text Telling me what your heart meant
+62400  6500 text The Heat of the moment shown in your eyes
+69400  3500 text And now you find yourself in 82
+73900  3100 text The disco hotspots hold no charm for you
+78500  4000 text You cant concern yourself with bigger things
+83500  5200 text You catch the pearl and ride the dragons wings
+88600  3400 text Cause its the heat of the moment
+93000  2800 text heat of the moment
+96500  3000 text The heat of the moment
+99500  7000 text shown in your eyes
+112000 100  text cock
+134000 3800 text And when your looks are gone and youre alone
+138400 4200 text How many nights you sit beside the phone
+143000 2800 text What were the things you wanted for yourself
+147100 4800 text Teenage ambition you remember well
+152200 3400 text It was the heat of the moment
+156800 3700 text Telling me what your heart meant
+160300 2400 text The Heat of the moment 
+163000 3000 text shown in your eyes
+167000 3000 text It was the heat of the moment
+170800 2800 text heat of the moment
+173800 2800 text heat of the moment
+177000 3500 text shown in your eyes
+180600 4000 text eyesssssss
+212000 2800 text heat of the moment
+215000 2800 text heat of the moment
+217400 2800 text heat of the moment x2
+221900 6500 text eyes
+230000 120 text balls

@@ -1,0 +1,42 @@
+# Lyrics script: Bloc Party - Banquet
+# Scripted by YMS using LRC2FOF to fit the version Inapprope used
+27810	2760	text	A heart of stone, a smoking gun
+30970	2620	text	I can give you life, I can take it away
+33990	2760	text	A heart of stone, a smoking gun
+37150	1800	text	I'm working it out
+39150	6110	text	Why'd you feel so underrated?
+52170	6200	text	Why'd you feel so negated?
+66340	2600	text	Turning away from the light
+69340	2850	text	Becoming adult
+72590	3230	text	Turning into my soul
+78910	2710	text	I wanted to bite, not destroy
+82020	3050	text	To feel her underneath
+85470	2910	text	Turning into my heart
+90440	1490	text	She don't think straight
+96940	1570	text	She don't think straight
+103270	1860	text	She's got such a dirty mind
+105230	1550	text	And it never ever stops
+106880	1800	text	And you don't taste like her
+108780	1260	text	And you never ever will
+110140	1550	text	And we don't read the papers
+111790	1500	text	We don't read the news
+113390	1490	text	Heaven's never enough
+114980	1710	text	We will never be fooled
+117490	2670	text	Turning away from the light
+120560	2650	text	Becoming adult
+123610	3100	text	Turning into my soul
+130070	2820	text	I wanted to bite, not destroy
+133290	2750	text	To feel her underneath
+136240	3210	text	Turning into my heart
+142600	5100	text	And if you feel a little left behind
+149300	3110	text	We will see you on the other side
+155710	4480	text	And if you feel a little left behind
+161790	3730	text	We will see you on the other side
+166920	1760	text	Cos I'm on fire
+169880	2560	text	Cos you know I'm on fire when you come
+172980	1860	text	Cos you know I'm on fire
+175990	2810	text	Cos you know I'm on fire, so stub me out
+179450	1610	text	Cos I'm on fire
+182810	1810	text	Cos I'm on fire
+185960	1650	text	Cos I'm on fire
+189160	1510	text	Cos I'm on fire

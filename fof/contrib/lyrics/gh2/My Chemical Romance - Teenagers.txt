@@ -1,0 +1,45 @@
+# Lyrics script: My Chemical Romance - Teenagers
+# Converted by YMS using LRC2FOF to fit the Guitar Hero II DLC version
+3500	1700	text	They're gonna clean up your looks
+5500	1700	text	With all the lies in the books
+7500	4020	text	To make a citizen out of you
+12500	1700	text	Because they sleep with a gun
+14500	1700	text	And keep an eye on you, son
+16500	3700	text	So they can watch all the things you do
+20500	2910	text	Because the drugs never work
+23710	1960	text	They're gonna give you a smirk
+25970	3700	text	'Cause they got methods of keeping you clean
+29970	2010	text	They're gonna rip up your heads
+32280	1920	text	Your aspirations to shreds
+34500	3200	text	Another cog in the murder machine
+38000	2780	text	They said all teenagers scare
+41080	2440	text	The living **** out of me
+43820	3680	text	They could care less as long as someone'll bleed
+47800	3600	text	So darken your clothes or strike a violent pose
+51700	3100	text	Maybe they'll leave you alone, but not me
+55100	2920	text	The boys and girls in the clique
+58320	1850	text	The awful names that they stick
+60470	3130	text	You're never gonna fit in much, kid
+64430	1770	text	But if you're troubled and hurt
+66500	1900	text	What you got under your shirt
+68700	3500	text	Will make them pay for the things that they did
+72500	2840	text	They said all teenagers scare
+75640	1780	text	The living **** out of me
+78500	3700	text	They could care less as long as someone'll bleed
+82500	3300	text	So darken your clothes or strike a violent pose
+86100	3100	text	Maybe they'll leave you alone, but not me
+89500	2090	text	Ohhh yeah!
+106630	2540	text	They said all teenagers scare
+109470	1930	text	The living **** out of me
+111700	3900	text	They could care less as long as someone'll bleed
+115900	3700	text	So darken your clothes or strike a violent pose
+119900	2900	text	Maybe they'll leave you alone, but not me
+123100	1580	text	All together now!
+124980	3490	text	Teenagers scare the living **** out of me
+128770	4050	text	They could care less as long as someone'll bleed
+133120	3650	text	So darken your clothes or strike a violent pose
+137070	3130	text	Maybe they'll leave you alone, but not me
+141730	3720	text	Teenagers scare the living **** out of me
+145750	3950	text	They could care less as long as someone'll bleed
+150000	3450	text	So darken your clothes or strike a violent pose
+153750	3750	text	Maybe they'll leave you alone, but not me

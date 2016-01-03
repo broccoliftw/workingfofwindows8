@@ -1,0 +1,56 @@
+# Lyrics script: Mary Jo feat. Tommi Inkila - Bang Bang, Mystery Man
+# Scripted by YMS to fit the Frets On Fire version
+8000	4000	text	You make me wait for a week for your answer
+12000	3000	text	And still it is of the question kind
+16000	4000	text	There you carelessly throw me a whisper
+20000	4000	text	Walk away only leaving behind
+24000	4000	text	The scent of mystery you wear every night
+28000	4000	text	How long in the air does it linger
+32000	2000	text	I thought I solved you
+34000	2000	text	And locked you somehow
+36000	2000	text	But I can't get the key
+38000	6000	text	You stay out of my reach
+44000	2000	text	Bang bang the wall
+46000	2000	text	Shall I kick in the door
+48000	2000	text	I bang bang the wall
+50000	2000	text	Shall I kick in the door
+52000	2000	text	I bang bang the wall
+54000	2000	text	Shall I kick in the door
+56000	2000	text	I bang bang the wall
+58000	2000	text	I don't want it no more
+68000	5000	text	I find myself standing in front of a shaman
+73000	3000	text	Asking for answers from man with the drum
+76000	5000	text	If I play loud will you fall in a trance and
+81000	3000	text	Bring me back some kind of a chance
+84000	5000	text	Bring me hope is my uncertainity
+89000	4000	text	Give me the code to break your mystery
+93000	4000	text	Bring me hope is my uncertainity
+97000	8000	text	Give me the code to break your mystery
+105000	2000	text	I bang bang the gong
+107000	2000	text	And you dance my song
+109000	2000	text	I bang bang the gong
+111000	2000	text	And you dance my song
+113000	2000	text	I bang bang the gong
+115000	2000	text	And you dance my song
+117000	4000	text	I can't wait for long, so I bang bang the gong
+138000	4000	text	The scent of mystery you wear every night
+142000	4000	text	How long in the air does it linger
+146000	4000	text	Not your concern, it is now my own fight
+150000	3000	text	But as much as I cried you stayed
+153000	5000	text	In my mind
+158000	2000	text	Bang bang the wall
+160000	2000	text	Shall I kick in the door
+162000	2000	text	I bang bang the wall
+164000	2000	text	Shall I kick in the door
+166000	2000	text	I bang bang the wall
+168000	2000	text	Shall I kick in the door
+170000	2000	text	I bang bang the wall
+172000	2000	text	I don't want it no more
+174000	2000	text	I bang bang the gong
+176000	2000	text	And you dance my song
+178000	2000	text	I bang bang the gong
+180000	2000	text	And you dance my song
+182000	2000	text	I bang bang the gong
+184000	2000	text	And you dance my song
+186000	2000	text	I can't wait for long
+188000	2000	text	So I bang bang the gong

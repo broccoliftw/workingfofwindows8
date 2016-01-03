@@ -1,0 +1,61 @@
+# [ar:Judas Priest]
+# [ti:You got another thing coming]
+# [by:LRC2FOF]
+# 
+23530	5120	text	One life I'm gonna live it up
+30250	2740	text	I'm takin' flight I said 
+33190	3570	text	I'll never get enough
+37560	5590	text	Stand tall I'm young and kinda proud
+44750	5950	text	I'm on top as long as the music's loud
+52300	1500	text	If you think I'll sit 
+53900	1510	text	around as the world goes by
+55510	1410	text	You're thinkin' like a fool 
+57020	2000	text	cause it's a case of do or die
+59220	3060	text	Out there is a fortune waitin' to be had
+62680	2120	text	You think I'll let it go you're mad
+65000	5410	text	You've got another thing comin'
+73410	2170	text	That's right here's 
+75780	3640	text	where the talkin' ends
+80220	1780	text	Well listen this night 
+82100	3880	text	there'll be some action spent
+86780	5220	text	Drive hard I'm callin' all the shots
+93600	2260	text	I got an ace card comin' 
+96060	4190	text	down on the rocks
+101050	1800	text	If you think I'll sit around
+103050	1280	text	while you chip away my brain
+104430	1840	text	Listen I ain't foolin' and 
+106370	1310	text	you'd better think again
+107780	2910	text	Out there is a fortune waitin' to be had
+111090	1800	text	You think I'll let it go you're mad
+113090	3320	text	You got another thing comin'
+117210	5050	text	You got another thing comin'
+123860	4240	text	You got another thing comin'
+128900	1800	text	In this world we're livin' 
+130900	4010	text	in we have our share of sorrow
+135710	2730	text	Answer now is don't give
+138640	5000	text	in aim for a new tomorrow
+172640	4600	text	Oh so hot no time to take a rest yeah
+178840	4960	text	Act tough ain't room for second best
+185400	5330	text	Real strong got me some security
+192330	1890	text	Hey I'm a big smash 
+194420	4290	text	I'm goin' for infinity yeah
+199510	1390	text	If you think I'll sit around 
+201000	1800	text	as the world goes by
+203000	1250	text	You're thinkin' like a fool 
+204350	1880	text	cause it's a case of do or die
+206330	2030	text	Out there is a fortune 
+208560	1420	text	waitin' to be had
+210080	2010	text	You think I'll let it go you're mad
+212290	2690	text	You've got another thing comin'
+215380	4900	text	You've got another thing comin'
+221880	3310	text	You've got another thing comin'
+225990	9010	text	You've got another thing
+240000	2660	text	Comin' now you
+243060	3230	text	You've got another thing comin'
+246690	5940	text	You've got another thing comin'
+255630	4840	text	You've got another thing comin'
+262070	5560	text	You've got another thing comin'
+270630	5720	text	You've got another thing comin'
+277950	5170	text	You've got another thing comin'
+284720	5530	text	You've got another thing comin'
+293250	4000	text	You've got another thing comin'

@@ -1,0 +1,33 @@
+# Lyrics script: The Doors - Light My Fire
+# Scripted by YMS to fit to the version Violent-Phlegm used
+9900	3700	text	You know that it would be untrue
+13600	3700	text	You know that I would be a liar
+17600	3600	text	If I was to say to you
+21400	3600	text	Girl, we couldn't get much higher
+25200	3600	text	Come on baby, light my fire
+29000	3500	text	Come on baby, light my fire
+32800	5300	text	Try to set the night on fire
+38200	3600	text	The time to hesitate is through
+42000	3800	text	No time to wallow in the mire
+46000	3100	text	Try now we can only lose
+49300	4100	text	And our love become a funeral pyre
+53500	3600	text	Come on baby, light my fire
+57300	3500	text	Come on baby, light my fire
+61100	6300	text	Try to set the night on fire, yeah
+342600	3500	text	The time to hesitate is through
+346200	3800	text	No time to wallow in the mire
+350200	3600	text	Try now we can only lose
+354000	3500	text	And our love become a funeral pyre
+357800	3600	text	Come on baby, light my fire
+361600	3600	text	Come on baby, light my fire
+365400	5300	text	Try to set the night on fire, yeah
+370800	3800	text	You know that it would be untrue
+374600	3700	text	You know that I would be a liar
+378600	3600	text	If I was to say to you
+382400	3500	text	Girl, we couldn't get much higher
+386100	3700	text	Come on baby, light my fire
+389900	3500	text	Come on baby, light my fire
+393700	3500	text	Try to set the night on fire
+397500	3500	text	Try to set the night on fire
+401300	3500	text	Try to set the night on fire
+405000	4900	text	Try to set the night on fire

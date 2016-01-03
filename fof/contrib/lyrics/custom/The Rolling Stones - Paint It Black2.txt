@@ -1,0 +1,48 @@
+# Lyrics script: Rolling Stones - Paint It Black
+# Scripted by YMS to fit to the version Sarge51 used
+14200	2500	text	I see a red door and
+16900	2400	text	I want it painted black
+20200	2400	text	No colours anymore
+22800	2500	text	I want them to turn black
+26200	2300	text	I see the girls walk by
+28600	2600	text	Dressed in their summer clothes
+32400	2000	text	I have to turn my head
+34500	2900	text	Until my darkness goes
+38500	2500	text	I see a line of cars and
+41100	2400	text	They're all painted black
+44500	2000	text	With flowers and my love
+46600	2900	text	Both never to come back
+50500	2400	text	I see people turn their heads
+53100	2200	text	And quickly look away
+56500	2100	text	Like a new born baby
+58700	2600	text	It just happens every day
+62500	2500	text	I look inside myself and
+65200	2400	text	See my heart is black
+68600	2500	text	I see my red door, I must
+71200	2500	text	Have it painted black
+74600	2200	text	Maybe then I'll fade away
+76900	2600	text	And not have to face the facts
+80500	2700	text	It's not easy facing up when
+83300	2200	text	Your whole world is black
+86800	2400	text	No more will my green sea go
+89500	2500	text	Turn a deeper blue
+93100	2500	text	I could not foresee this thing
+95800	2500	text	Happening to you
+99400	1900	text	If I look hard enough
+101400	2700	text	Into the setting sun
+105300	2000	text	My love will laugh with me
+107500	2700	text	Before the morning comes
+111400	2400	text	I see a red door and
+114000	2500	text	I want it painted black
+117400	2400	text	No colours anymore
+120000	2500	text	I want them to turn black
+123400	2300	text	I see the girls walk by
+125800	2600	text	Dressed in their summer clothes
+129500	2000	text	I have to turn my head
+131600	2800	text	Until my darkness goes
+135600	2500	text	Hmm hmm hmm hmm hmm hmm hmm
+138200	2700	text	Hmm hmm hmm hmm hmm
+142300	2000	text	I wanna see you painted, painted
+144300	3600	text	Painted, painted black, yeah
+149800	2600	text	Hmm hmm hmm hmm hmm hmm hmm
+152500	2600	text	Hmm hmm hmm hmm hmm

@@ -1,0 +1,59 @@
+# Lyrics script: Guns 'n Roses - Knockin' On Heaven's Door
+# Scripted by YMS to fit to the version Troubletcat used
+7500	8100	text	Uuuuuuu!
+31500	1600	text	Mama take this
+33300	1400	text	Badge from me
+38600	1900	text	I can't use it
+40900	1200	text	Anymore
+45900	1500	text	It's getting dark
+47500	1800	text	Too dark to see
+52900	4700	text	Feels like I'm knockin' on heaven's door
+60700	3600	text	Knockknockknockin' on heaven's door
+64300	3300	text	Hey, hey, hey, hey yeah!
+67900	4000	text	Knockknockknockin' on heaven's door
+74100	900	text	Uuuuh
+75200	4300	text	Knockknockknockin' on heaven's door
+79600	2400	text	Uuuuuhuh yeah!
+82300	5100	text	Knockknockknockin' on heaven's door
+87700	1900	text	Ey, hey, yeah!
+119000	1500	text	Mama put my
+120800	1600	text	Guns in the ground
+126100	2000	text	I can't shoot them
+128400	1300	text	Anymore
+133100	2400	text	That cold black cloud is
+135700	1500	text	Comin' down
+140600	4300	text	Feels like I'm knockin' on heaven's door
+148400	3300	text	Knockknockknockin' on heaven's door
+152000	3300	text	Hey, hey, hey, hey yeah!
+155600	3800	text	Knockknockknockin' on heaven's door
+162800	4100	text	Knockknockknockin' on heaven's door
+168500	1200	text	Oh, yeah!
+170000	5300	text	Knockknockknockin' on heaven's door
+175400	1800	text	Hey, hey yeah!
+226500	600	text	You just better start
+227200	2000	text	Sniffin' your own rank subjugation jack
+229200	500	text	Cause it's just you
+229800	1000	text	Against your tattered libido
+230800	1000	text	The bank and the mortician
+231800	1200	text	Forever man and it wouldn't be luck
+233100	1300	text	If you could get out of life alive!
+234500	3500	text	Knockknockknockin' on heaven's door
+238200	3300	text	Hey, hey, hey, hey yeah!
+241800	3800	text	Knockknockin' on heaven's door
+249000	3200	text	Knockknockknockin' on heaven's door
+254200	1900	text	Uhuh, yeah!
+256200	3900	text	Knockknockin' on heaven's door
+263400	3500	text	Knockknockknockin' on heaven's door
+267000	3600	text	Nou, ou, ouo!
+270600	3700	text	Knockknockin' on heaven's door
+277900	3500	text	Knockknockknockin' on heaven's door
+281500	3300	text	Nou, ou, nou!
+285100	4700	text	Knockknockin' on heaven's door
+289900	2100	text	Uh, oh uh, oh uh, oh uh
+292300	3900	text	Knockknockknockin' on heaven's door
+299500	3600	text	Knockknockin' on heaven's door
+303100	3300	text	Uuu oh, oh!
+306800	3700	text	Knockknockknockin' on heaven's door
+313900	5300	text	Knockknockknockin' on heaven's door
+319400	3200	text	Uh, oh uh
+323400	6200	text	Ouh! Yeah, yeah!
